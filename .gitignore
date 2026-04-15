@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+historico_diagnosticos.json
+pacientes.json
+backups/
+exports/
+*.tmp
+*.bak
+.DS_Store

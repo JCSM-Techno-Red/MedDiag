@@ -1,0 +1,4992 @@
+{
+  "sintomas": {
+    "fisicos": [
+      "febre",
+      "febre alta",
+      "febre baixa",
+      "febre intermitente",
+      "calafrios",
+      "sudorese",
+      "suor noturno",
+      "suor excessivo",
+      "hipotermia",
+      "hipertermia",
+      "dor de cabeça",
+      "cefaleia tensional",
+      "enxaqueca",
+      "dor de cabeça latejante",
+      "dor de cabeça frontal",
+      "dor de cabeça occipital",
+      "cefaleia em salvas",
+      "tontura",
+      "vertigem",
+      "labirintite",
+      "desequilíbrio",
+      "desmaio",
+      "síncope",
+      "lipotimia",
+      "sensação de desmaio",
+      "fadiga",
+      "cansaço",
+      "cansaço extremo",
+      "fraqueza",
+      "fraqueza muscular",
+      "astenia",
+      "prostração",
+      "mal-estar geral",
+      "indisposição",
+      "dor abdominal",
+      "dor no estômago",
+      "dor abdominal superior",
+      "dor abdominal inferior",
+      "dor abdominal difusa",
+      "cólica abdominal",
+      "queimação no estômago",
+      "azia",
+      "refluxo",
+      "eructação",
+      "inchaço abdominal",
+      "distensão abdominal",
+      "flatulência",
+      "gases",
+      "náusea",
+      "enjoo",
+      "vômito",
+      "vômito com sangue",
+      "hematêmese",
+      "regurgitação",
+      "diarreia",
+      "diarreia aquosa",
+      "diarreia com sangue",
+      "disenteria",
+      "constipação",
+      "prisão de ventre",
+      "intestino preso",
+      "fezes duras",
+      "fezes amolecidas",
+      "fezes com muco",
+      "fezes com sangue",
+      "melena",
+      "fezes escuras",
+      "fezes claras",
+      "acolia fecal",
+      "esteatorreia",
+      "falta de ar",
+      "dispneia",
+      "dispneia aos esforços",
+      "dispneia em repouso",
+      "ortopneia",
+      "dispneia paroxística noturna",
+      "chiado no peito",
+      "sibilos",
+      "roncos",
+      "estertores",
+      "taquipneia",
+      "bradipneia",
+      "apneia",
+      "respiração ofegante",
+      "dificuldade para respirar",
+      "tosse",
+      "tosse seca",
+      "tosse produtiva",
+      "tosse com catarro",
+      "tosse com sangue",
+      "hemoptise",
+      "tosse noturna",
+      "tosse persistente",
+      "tosse crônica",
+      "expectoração",
+      "catarro",
+      "escarro",
+      "secreção pulmonar",
+      "dor torácica",
+      "dor no peito",
+      "dor retroesternal",
+      "dor precordial",
+      "aperto no peito",
+      "queimação no peito",
+      "pontada no peito",
+      "dor ao respirar",
+      "pleurisia",
+      "palpitação",
+      "taquicardia",
+      "bradicardia",
+      "arritmia",
+      "batimentos irregulares",
+      "coração acelerado",
+      "pulso fraco",
+      "pulso forte",
+      "dor nas costas",
+      "lombalgia",
+      "dor lombar",
+      "cervicalgia",
+      "dor cervical",
+      "torcicolo",
+      "dor na coluna",
+      "dor dorsal",
+      "ciática",
+      "dor ciática",
+      "dor articular",
+      "artralgia",
+      "dor nas articulações",
+      "inchaço articular",
+      "edema articular",
+      "rigidez matinal",
+      "rigidez articular",
+      "crepitação articular",
+      "estalos nas articulações",
+      "limitação de movimento",
+      "deformidade articular",
+      "dor muscular",
+      "mialgia",
+      "dor nos músculos",
+      "cãibra",
+      "espasmo muscular",
+      "contratura muscular",
+      "fraqueza muscular",
+      "atrofia muscular",
+      "fasciculações",
+      "tremores",
+      "erupção cutânea",
+      "rash cutâneo",
+      "exantema",
+      "urticária",
+      "prurido",
+      "coceira",
+      "coceira intensa",
+      "pele seca",
+      "pele oleosa",
+      "pele escamosa",
+      "descamação",
+      "bolhas",
+      "vesículas",
+      "pústulas",
+      "pápulas",
+      "nódulos",
+      "placas",
+      "manchas na pele",
+      "hiperpigmentação",
+      "hipopigmentação",
+      "vitiligo",
+      "icterícia",
+      "pele amarelada",
+      "olhos amarelados",
+      "palidez",
+      "pele pálida",
+      "cianose",
+      "extremidades azuladas",
+      "lábios azulados",
+      "rubor facial",
+      "vermelhidão",
+      "eritema",
+      "petéquias",
+      "equimoses",
+      "hematomas",
+      "púrpura",
+      "perda de peso",
+      "perda de peso inexplicada",
+      "emagrecimento",
+      "ganho de peso",
+      "aumento de peso inexplicado",
+      "obesidade",
+      "sobrepeso",
+      "anorexia",
+      "perda de apetite",
+      "falta de apetite",
+      "polifagia",
+      "fome excessiva",
+      "aumento do apetite",
+      "compulsão alimentar",
+      "polidipsia",
+      "sede excessiva",
+      "boca seca",
+      "xerostomia",
+      "sialorreia",
+      "salivação excessiva",
+      "halitose",
+      "mau hálito",
+      "poliúria",
+      "aumento da frequência urinária",
+      "micção frequente",
+      "noctúria",
+      "urgência urinária",
+      "incontinência urinária",
+      "enurese noturna",
+      "oligúria",
+      "diminuição da urina",
+      "anúria",
+      "retenção urinária",
+      "disúria",
+      "dor ao urinar",
+      "ardência ao urinar",
+      "hematúria",
+      "sangue na urina",
+      "urina escura",
+      "urina turva",
+      "urina com espuma",
+      "proteinúria",
+      "cilindrúria",
+      "corrimento nasal",
+      "rinorreia",
+      "nariz escorrendo",
+      "congestão nasal",
+      "nariz entupido",
+      "obstrução nasal",
+      "espirros",
+      "espirros frequentes",
+      "prurido nasal",
+      "coceira no nariz",
+      "epistaxe",
+      "sangramento nasal",
+      "sinusite",
+      "dor facial",
+      "dor nos seios da face",
+      "odinofagia",
+      "dor de garganta",
+      "dor ao engolir",
+      "disfagia",
+      "dificuldade para engolir",
+      "engasgos",
+      "rouquidão",
+      "disfonia",
+      "afonia",
+      "perda da voz",
+      "pigarro",
+      "garganta seca",
+      "garganta inflamada",
+      "garganta vermelha",
+      "placas na garganta",
+      "amígdalas inchadas",
+      "otalgia",
+      "dor de ouvido",
+      "otorreia",
+      "secreção no ouvido",
+      "otorragia",
+      "sangramento no ouvido",
+      "zumbido",
+      "tinnitus",
+      "hipoacusia",
+      "diminuição da audição",
+      "surdez",
+      "perda auditiva",
+      "sensação de ouvido tampado",
+      "plenitude auricular",
+      "vertigem",
+      "labirintite",
+      "prurido ocular",
+      "coceira nos olhos",
+      "hiperemia ocular",
+      "olhos vermelhos",
+      "olhos inchados",
+      "edema palpebral",
+      "lacrimejamento",
+      "olhos lacrimejantes",
+      "secreção ocular",
+      "fotofobia",
+      "sensibilidade à luz",
+      "diplopia",
+      "visão dupla",
+      "visão turva",
+      "visão embaçada",
+      "diminuição da visão",
+      "perda de visão",
+      "cegueira noturna",
+      "escotomas",
+      "moscas volantes",
+      "dor ocular",
+      "olhos secos",
+      "amenorreia",
+      "ausência de menstruação",
+      "dismenorreia",
+      "cólica menstrual",
+      "dor menstrual",
+      "menorragia",
+      "menstruação abundante",
+      "metrorragia",
+      "sangramento irregular",
+      "sangramento vaginal",
+      "corrimento vaginal",
+      "leucorreia",
+      "prurido vaginal",
+      "dispareunia",
+      "dor durante relação sexual",
+      "secura vaginal",
+      "fogachos",
+      "ondas de calor",
+      "impotência",
+      "disfunção erétil",
+      "ejaculação precoce",
+      "ejaculação retardada",
+      "diminuição da libido",
+      "perda do desejo sexual",
+      "dor testicular",
+      "inchaço testicular",
+      "nódulo testicular",
+      "parestesia",
+      "formigamento",
+      "dormência",
+      "hipoestesia",
+      "anestesia",
+      "hiperestesia",
+      "queimação",
+      "ardência",
+      "choques",
+      "tremor",
+      "tremor de repouso",
+      "tremor de ação",
+      "tremor essencial",
+      "convulsão",
+      "crise convulsiva",
+      "epilepsia",
+      "ausência",
+      "espasmos",
+      "mioclonias",
+      "distonia",
+      "discinesia",
+      "coreia",
+      "atetose",
+      "balismo",
+      "rigidez",
+      "espasticidade",
+      "hipertonia",
+      "hipotonia",
+      "flacidez",
+      "paralisia",
+      "paresia",
+      "hemiplegia",
+      "paraplegia",
+      "tetraplegia",
+      "monoplegia",
+      "incoordenação",
+      "ataxia",
+      "dismetria",
+      "disdiadococinesia",
+      "marcha atáxica",
+      "marcha parkinsoniana",
+      "marcha ceifante",
+      "marcha escarvante",
+      "marcha anserina",
+      "claudicação",
+      "edema",
+      "inchaço",
+      "inchaço nas pernas",
+      "inchaço nos pés",
+      "inchaço nos tornozelos",
+      "edema facial",
+      "edema periorbitário",
+      "anasarca",
+      "ascite",
+      "derrame pleural",
+      "derrame pericárdico",
+      "linfonodos aumentados",
+      "gânglios inchados",
+      "linfadenopatia",
+      "adenomegalia",
+      "íngua",
+      "alopecia",
+      "queda de cabelo",
+      "calvície",
+      "hirsutismo",
+      "excesso de pelos",
+      "unhas quebradiças",
+      "unhas fracas",
+      "onicólise",
+      "onicomicose",
+      "cicatrização lenta",
+      "feridas que não cicatrizam",
+      "úlceras",
+      "lesões de pele",
+      "necrose",
+      "gangrena",
+      "bócio",
+      "nódulo na tireoide",
+      "exoftalmia",
+      "mixedema",
+      "intolerância ao calor",
+      "intolerância ao frio",
+      "hipoglicemia",
+      "tontura por queda de açúcar",
+      "tremor por hipoglicemia",
+      "suor frio por hipoglicemia",
+      "hiperglicemia",
+      "polifagia noturna",
+      "ganho de peso inexplicado",
+      "acromegalia",
+      "ginecomastia",
+      "galactorreia",
+      "claudicação intermitente",
+      "hipotensão postural",
+      "hipotensão arterial",
+      "pressão baixa",
+      "síncope cardiogênica",
+      "angina",
+      "angina estável",
+      "angina instável",
+      "edema de membros inferiores",
+      "veias varicosas",
+      "varizes",
+      "trombose venosa profunda",
+      "inchaço assimétrico na perna",
+      "rubor nas extremidades",
+      "cianose periférica",
+      "sopro cardíaco",
+      "fibrilação atrial",
+      "bloqueio cardíaco",
+      "afasia expressiva",
+      "afasia receptiva",
+      "disartria",
+      "apraxia",
+      "agnosia",
+      "anosognosia",
+      "anosmia",
+      "ageusia",
+      "perda de olfato",
+      "perda de paladar",
+      "nistagmo",
+      "paralisia facial",
+      "paralisia do nervo facial",
+      "sinal de Babinski",
+      "reflexo anormal",
+      "fraqueza súbita",
+      "dormência súbita",
+      "alteração súbita da consciência",
+      "perda de consciência súbita",
+      "confusão aguda",
+      "desorientação aguda",
+      "afundamento cognitivo",
+      "neuropatia periférica",
+      "dor no calcanhar",
+      "fascite plantar",
+      "tendinite",
+      "bursite",
+      "epicondilite",
+      "cotovelo de tenista",
+      "dor no joelho",
+      "dor no ombro",
+      "síndrome do manguito rotador",
+      "dor no quadril",
+      "dor na virilha",
+      "dor nas solas dos pés",
+      "dor nos calcanhares",
+      "rigidez muscular generalizada",
+      "dor difusa no corpo",
+      "dor em pontos sensíveis",
+      "hipersensibilidade muscular",
+      "dor ao toque",
+      "alodinia",
+      "hiperalgesia",
+      "expectoração purulenta",
+      "expectoração amarelada",
+      "expectoração esverdeada",
+      "respiração ruidosa",
+      "estridor",
+      "respiração de Cheyne-Stokes",
+      "hipoxemia",
+      "saturação baixa de oxigênio",
+      "cianose labial",
+      "baqueteamento digital",
+      "dedos em baqueta de tambor",
+      "alternância diarreia-constipação",
+      "muco nas fezes",
+      "tenesmo",
+      "urgência fecal",
+      "incontinência fecal",
+      "sangramento retal",
+      "hemorragia digestiva",
+      "dor após alimentação",
+      "saciedade precoce",
+      "perda de peso com apetite preservado",
+      "disfagia progressiva",
+      "odinofagia intensa",
+      "dor em barra abdominal",
+      "icterícia progressiva",
+      "esplenomegalia",
+      "hepatomegalia",
+      "fígado aumentado",
+      "baço aumentado",
+      "circulação colateral abdominal",
+      "dor suprapúbica",
+      "dor pélvica crônica",
+      "corrimento uretral",
+      "disúria progressiva",
+      "hesitação urinária",
+      "jato urinário fraco",
+      "gotejamento pós-miccional",
+      "noctúria frequente",
+      "dor testicular crônica",
+      "varicocele",
+      "hidrocele",
+      "próstata aumentada",
+      "dor pélvica na menstruação",
+      "endometriose",
+      "mioma",
+      "sangramento pós-menopausa",
+      "ressecamento vaginal",
+      "prolapso genital",
+      "vesículas em faixa",
+      "dor em queimação na pele",
+      "neuralgia pós-herpética",
+      "lesões eritematosas",
+      "eritema migratório",
+      "lesão em asa de borboleta",
+      "fotossensibilidade",
+      "acne inflamatória",
+      "comedões",
+      "rosácea",
+      "dermatite de contato",
+      "eczema",
+      "pele com escamas prateadas",
+      "placas eritematosas",
+      "lesões simétricas",
+      "pele espessada",
+      "celulite infecciosa",
+      "eritema e calor local",
+      "limites imprecisos na pele",
+      "linfangite",
+      "inflamação ao longo do vaso linfático",
+      "nódulo subcutâneo",
+      "tofos",
+      "depósito de cristais na pele",
+      "febre em picos",
+      "febre terçã",
+      "febre quartã",
+      "calafrios com tremores",
+      "suores profusos após febre",
+      "esplenomegalia por infecção",
+      "anemia por infecção",
+      "plaquetopenia",
+      "leucopenia",
+      "leucocitose",
+      "linfonodos dolorosos",
+      "linfonodo pétreo",
+      "linfonodo borrachoso",
+      "febre prolongada",
+      "febre de origem indeterminada",
+      "erupção cutânea após febre",
+      "exantema morbiliforme",
+      "manchas vermelhas que não somem à pressão",
+      "visão de halos",
+      "halos ao redor de luzes",
+      "pressão ocular aumentada",
+      "dor ocular súbita intensa",
+      "olho vermelho com dor",
+      "visão em túnel",
+      "perda de campo visual",
+      "amaurose",
+      "cegueira",
+      "úlcera de córnea",
+      "ceratite",
+      "uveíte",
+      "dor generalizada",
+      "dor crônica difusa",
+      "fadiga crônica inexplicada",
+      "infecções de repetição",
+      "infecções recorrentes",
+      "cicatrização prejudicada",
+      "emagrecimento importante",
+      "caquexia",
+      "perda de massa muscular",
+      "sarcopenia",
+      "queda frequente",
+      "instabilidade ao andar",
+      "marcha lenta",
+      "marcha arrastada",
+      "postura curvada"
+    ],
+    "mentais": [
+      "ansiedade",
+      "angústia",
+      "preocupação excessiva",
+      "medo",
+      "medo irracional",
+      "pânico",
+      "ataque de pânico",
+      "fobia",
+      "fobia social",
+      "agorafobia",
+      "claustrofobia",
+      "fobia específica",
+      "depressão",
+      "tristeza",
+      "tristeza profunda",
+      "choro fácil",
+      "choro frequente",
+      "apatia",
+      "anedonia",
+      "perda de interesse",
+      "falta de prazer",
+      "desânimo",
+      "desmotivação",
+      "desesperança",
+      "desamparo",
+      "vazio existencial",
+      "irritabilidade",
+      "agressividade",
+      "hostilidade",
+      "raiva",
+      "fúria",
+      "impulsividade",
+      "agitação",
+      "inquietação",
+      "nervosismo",
+      "tensão",
+      "insônia",
+      "insônia inicial",
+      "insônia de manutenção",
+      "despertar precoce",
+      "dificuldade para dormir",
+      "dificuldade para pegar no sono",
+      "sono entrecortado",
+      "hipersonia",
+      "sonolência excessiva",
+      "sono excessivo",
+      "pesadelos",
+      "terror noturno",
+      "sonambulismo",
+      "bruxismo",
+      "ronco",
+      "apneia do sono",
+      "sono não reparador",
+      "fadiga diurna",
+      "falta de concentração",
+      "dificuldade de concentração",
+      "distração",
+      "desatenção",
+      "hiperatividade",
+      "impulsividade",
+      "esquecimento",
+      "perda de memória",
+      "amnésia",
+      "amnésia anterógrada",
+      "amnésia retrógrada",
+      "confusão mental",
+      "desorientação",
+      "desorientação temporal",
+      "desorientação espacial",
+      "obnubilação",
+      "torpor",
+      "alucinação",
+      "alucinação auditiva",
+      "alucinação visual",
+      "alucinação tátil",
+      "alucinação olfativa",
+      "alucinação gustativa",
+      "vozes de comando",
+      "delírio",
+      "delirium",
+      "ideação delirante",
+      "delírio persecutório",
+      "delírio de grandeza",
+      "delírio de ciúmes",
+      "delírio somático",
+      "delírio de referência",
+      "delírio de controle",
+      "paranoia",
+      "ideação paranoide",
+      "desconfiança",
+      "suspeita",
+      "despersonalização",
+      "desrealização",
+      "sensação de irrealidade",
+      "estranhamento",
+      "sensação de estar fora do corpo",
+      "compulsão",
+      "obsessão",
+      "pensamentos intrusivos",
+      "pensamentos repetitivos",
+      "rituais",
+      "rituais compulsivos",
+      "verificação repetitiva",
+      "lavagem excessiva",
+      "contagem compulsiva",
+      "ordenação compulsiva",
+      "acumulação compulsiva",
+      "colecionismo patológico",
+      "euforia",
+      "mania",
+      "hipomania",
+      "exaltação do humor",
+      "grandiosidade",
+      "autoestima inflada",
+      "loquacidade",
+      "verborragia",
+      "pressão para falar",
+      "fuga de ideias",
+      "pensamento acelerado",
+      "aceleração do pensamento",
+      "distraibilidade",
+      "aumento da energia",
+      "diminuição da necessidade de sono",
+      "comportamento de risco",
+      "gastos excessivos",
+      "hipersexualidade",
+      "labilidade emocional",
+      "instabilidade emocional",
+      "mudanças de humor",
+      "oscilação de humor",
+      "ciclotimia",
+      "altos e baixos",
+      "isolamento social",
+      "retraimento social",
+      "timidez excessiva",
+      "evitação social",
+      "medo de interações sociais",
+      "dificuldade de relacionamento",
+      "falta de habilidades sociais",
+      "baixa autoestima",
+      "insegurança",
+      "autocrítica excessiva",
+      "perfeccionismo",
+      "sentimento de inferioridade",
+      "sentimento de inadequação",
+      "culpa",
+      "culpa excessiva",
+      "remorso",
+      "vergonha",
+      "vergonha excessiva",
+      "ideação suicida",
+      "pensamentos de morte",
+      "planejamento suicida",
+      "tentativa de suicídio",
+      "automutilação",
+      "cutting",
+      "comportamento autolesivo",
+      "desejo de morrer",
+      "alteração do apetite",
+      "falta de apetite",
+      "aumento do apetite",
+      "compulsão alimentar",
+      "restrição alimentar",
+      "comportamento alimentar restritivo",
+      "purgativo",
+      "vômito autoinduzido",
+      "uso de laxantes",
+      "exercício excessivo",
+      "preocupação com peso",
+      "medo de engordar",
+      "distorção da imagem corporal",
+      "insatisfação corporal",
+      "anedonia sexual",
+      "diminuição da libido",
+      "aumento da libido",
+      "hipersexualidade",
+      "comportamento sexual de risco",
+      "catatonia",
+      "estupor catatônico",
+      "flexibilidade cérea",
+      "negativismo",
+      "mutismo",
+      "ecolalia",
+      "ecopraxia",
+      "estereotipias",
+      "maneirismos",
+      "postura bizarra",
+      "embotamento afetivo",
+      "afeto plano",
+      "afeto inadequado",
+      "afeto pueril",
+      "afeto lábil",
+      "incongruência afetiva",
+      "desorganização do pensamento",
+      "pensamento desorganizado",
+      "discurso desorganizado",
+      "incoerência",
+      "descarrilamento",
+      "tangencialidade",
+      "circunstancialidade",
+      "perseveração",
+      "bloqueio do pensamento",
+      "neologismos",
+      "salada de palavras",
+      "confabulação",
+      "logorréia",
+      "pensamento concreto",
+      "pensamento abstracto prejudicado",
+      "déficit de memória de trabalho",
+      "dificuldade de planejamento",
+      "dificuldade de tomada de decisão",
+      "disfunção executiva",
+      "lentidão cognitiva",
+      "bradipsiquia",
+      "mutismo seletivo",
+      "palilalia",
+      "taquilalia",
+      "fissura",
+      "compulsão por substância",
+      "abstinência",
+      "síndrome de abstinência",
+      "tremores por abstinência",
+      "sudorese por abstinência",
+      "tolerância aumentada",
+      "uso compulsivo de substância",
+      "recaída frequente",
+      "mentira recorrente",
+      "negação do problema",
+      "dependência física",
+      "dependência psicológica",
+      "consumo para evitar abstinência",
+      "intoxicação",
+      "hipersensibilidade sensorial",
+      "hipossensibilidade sensorial",
+      "rigidez de rotina",
+      "resistência a mudanças",
+      "dificuldade de contato visual",
+      "dificuldade de comunicação social",
+      "interesses restritos e intensos",
+      "comportamento repetitivo",
+      "estereotipias motoras",
+      "balançar o corpo",
+      "bater as mãos",
+      "girar objetos",
+      "dificuldade de compreensão de metáforas",
+      "interpretação literal da linguagem",
+      "dificuldade de regulação emocional",
+      "meltdown",
+      "shutdown",
+      "esgotamento por estímulos",
+      "amnésia dissociativa",
+      "fuga dissociativa",
+      "transtorno dissociativo de identidade",
+      "sensação de ser outra pessoa",
+      "vozes internas conflitantes",
+      "revivência de trauma",
+      "congelamento emocional",
+      "embotamento emocional",
+      "entorpecimento emocional",
+      "dificuldade em sentir emoções",
+      "alexitimia",
+      "narcolepsia",
+      "cataplexia",
+      "paralisia do sono",
+      "alucinações hipnagógicas",
+      "alucinações hipnopômpicas",
+      "síndrome das pernas inquietas",
+      "pernas inquietas",
+      "mioclonias noturnas",
+      "despertar confusional",
+      "ortorexia",
+      "preocupação excessiva com alimentação saudável",
+      "potomanía",
+      "ingestão compulsiva de água",
+      "picacismo",
+      "pica",
+      "ingestão de substâncias não alimentares",
+      "ruminação de alimentos",
+      "transtorno de evitação alimentar",
+      "seletividade alimentar extrema",
+      "cleptomanía",
+      "piromania",
+      "jogo patológico",
+      "dependência de internet",
+      "dependência de jogos",
+      "vício em redes sociais",
+      "ciúme patológico",
+      "possessividade excessiva",
+      "apego ansioso",
+      "apego evitativo",
+      "desconfiança crônica",
+      "sensação crônica de vazio",
+      "ansiedade existencial",
+      "medo de abandono",
+      "instabilidade na identidade"
+    ]
+  },
+  "doencas": {
+    "fisicas": [
+      {
+        "doenca": "COVID-19",
+        "tipo": "fisico",
+        "descricao": "Doença infecciosa causada pelo coronavírus SARS-CoV-2, que pode variar de casos assintomáticos a pneumonia grave e morte.",
+        "tratamento": "Isolamento, repouso, hidratação, medicamentos para sintomas. Casos graves requerem hospitalização, oxigenoterapia e corticoides.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "febre",
+            "peso": 1.5
+          },
+          {
+            "s": "tosse seca",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "falta de ar",
+            "peso": 1.4
+          },
+          {
+            "s": "perda de olfato",
+            "peso": 1.2
+          },
+          {
+            "s": "perda de paladar",
+            "peso": 1.2
+          },
+          {
+            "s": "dor de cabeça",
+            "peso": 1.0
+          },
+          {
+            "s": "dor de garganta",
+            "peso": 1.0
+          },
+          {
+            "s": "congestão nasal",
+            "peso": 0.9
+          },
+          {
+            "s": "náusea",
+            "peso": 0.9
+          },
+          {
+            "s": "diarreia",
+            "peso": 0.8
+          },
+          {
+            "s": "mialgia",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": []
+        }
+      },
+      {
+        "doenca": "Dengue",
+        "tipo": "fisico",
+        "descricao": "Doença viral transmitida pelo mosquito Aedes aegypti, caracterizada por febre alta e dores intensas. Pode evoluir para formas graves com hemorragia.",
+        "tratamento": "Repouso, hidratação intensa (60-80ml/kg/dia), paracetamol para dor e febre. Evitar AAS e anti-inflamatórios.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "febre alta",
+            "peso": 1.6
+          },
+          {
+            "s": "dor de cabeça",
+            "peso": 1.4
+          },
+          {
+            "s": "dor retro-orbital",
+            "peso": 1.3
+          },
+          {
+            "s": "mialgia",
+            "peso": 1.3
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.3
+          },
+          {
+            "s": "náusea",
+            "peso": 1.0
+          },
+          {
+            "s": "vômito",
+            "peso": 1.0
+          },
+          {
+            "s": "exantema",
+            "peso": 0.9
+          },
+          {
+            "s": "petéquias",
+            "peso": 1.1
+          },
+          {
+            "s": "prostração",
+            "peso": 1.2
+          },
+          {
+            "s": "dor abdominal",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "febre alta"
+          ]
+        }
+      },
+      {
+        "doenca": "Hipertensão Arterial Sistêmica",
+        "tipo": "fisico",
+        "descricao": "Pressão arterial persistentemente elevada (≥140/90 mmHg), principal fator de risco para doenças cardiovasculares, AVC e insuficiência renal.",
+        "tratamento": "Mudanças no estilo de vida (dieta hipossódica, exercícios), anti-hipertensivos (IECA, BRA, diuréticos, BCC).",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dor de cabeça",
+            "peso": 1.1
+          },
+          {
+            "s": "tontura",
+            "peso": 1.0
+          },
+          {
+            "s": "zumbido",
+            "peso": 0.9
+          },
+          {
+            "s": "visão turva",
+            "peso": 1.0
+          },
+          {
+            "s": "palpitação",
+            "peso": 1.0
+          },
+          {
+            "s": "epistaxe",
+            "peso": 0.8
+          },
+          {
+            "s": "cansaço",
+            "peso": 0.9
+          },
+          {
+            "s": "dor no peito",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": []
+        }
+      },
+      {
+        "doenca": "Diabetes Mellitus Tipo 2",
+        "tipo": "fisico",
+        "descricao": "Distúrbio metabólico caracterizado por hiperglicemia crônica devido à resistência à insulina e deficiência relativa de insulina.",
+        "tratamento": "Dieta controlada, exercícios físicos, metformina, sulfonilureias, inibidores de SGLT2, agonistas de GLP-1, insulina.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "polidipsia",
+            "peso": 1.4
+          },
+          {
+            "s": "poliúria",
+            "peso": 1.4
+          },
+          {
+            "s": "polifagia",
+            "peso": 1.1
+          },
+          {
+            "s": "perda de peso",
+            "peso": 1.2
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.2
+          },
+          {
+            "s": "visão turva",
+            "peso": 1.1
+          },
+          {
+            "s": "parestesia",
+            "peso": 1.1
+          },
+          {
+            "s": "formigamento",
+            "peso": 1.0
+          },
+          {
+            "s": "cicatrização lenta",
+            "peso": 1.2
+          },
+          {
+            "s": "infecções recorrentes",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "polidipsia",
+            "poliúria"
+          ]
+        }
+      },
+      {
+        "doenca": "Asma Brônquica",
+        "tipo": "fisico",
+        "descricao": "Doença inflamatória crônica das vias aéreas, causando hiper-reatividade brônquica e episódios recorrentes de obstrução reversível.",
+        "tratamento": "Broncodilatadores de curta e longa duração, corticoides inalatórios, antileucotrienos, evitar gatilhos alérgicos.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "chiado no peito",
+            "peso": 1.5
+          },
+          {
+            "s": "falta de ar",
+            "peso": 1.5
+          },
+          {
+            "s": "tosse seca",
+            "peso": 1.3
+          },
+          {
+            "s": "opressão torácica",
+            "peso": 1.3
+          },
+          {
+            "s": "dispneia",
+            "peso": 1.4
+          },
+          {
+            "s": "tosse noturna",
+            "peso": 1.2
+          },
+          {
+            "s": "sibilos",
+            "peso": 1.3
+          },
+          {
+            "s": "despertar noturno",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "chiado no peito",
+            "falta de ar"
+          ]
+        }
+      },
+      {
+        "doenca": "Pneumonia",
+        "tipo": "fisico",
+        "descricao": "Infecção que inflama os alvéolos pulmonares, podendo ser causada por bactérias (Streptococcus pneumoniae), vírus ou fungos.",
+        "tratamento": "Antibióticos (se bacteriana), repouso, hidratação, oxigenoterapia em casos graves, fisioterapia respiratória.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "febre alta",
+            "peso": 1.5
+          },
+          {
+            "s": "tosse produtiva",
+            "peso": 1.4
+          },
+          {
+            "s": "falta de ar",
+            "peso": 1.5
+          },
+          {
+            "s": "dor torácica",
+            "peso": 1.3
+          },
+          {
+            "s": "calafrios",
+            "peso": 1.2
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.2
+          },
+          {
+            "s": "expectoração purulenta",
+            "peso": 1.4
+          },
+          {
+            "s": "taquipneia",
+            "peso": 1.2
+          },
+          {
+            "s": "cianose",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "febre alta",
+            "tosse produtiva"
+          ]
+        }
+      },
+      {
+        "doenca": "Gripe (Influenza)",
+        "tipo": "fisico",
+        "descricao": "Infecção viral aguda do trato respiratório causada pelo vírus Influenza, com surtos sazonais.",
+        "tratamento": "Repouso, hidratação, analgésicos, antitérmicos. Oseltamivir em casos selecionados nas primeiras 48h.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "febre alta",
+            "peso": 1.5
+          },
+          {
+            "s": "calafrios",
+            "peso": 1.3
+          },
+          {
+            "s": "tosse seca",
+            "peso": 1.3
+          },
+          {
+            "s": "dor de garganta",
+            "peso": 1.2
+          },
+          {
+            "s": "mialgia",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "cefaleia",
+            "peso": 1.2
+          },
+          {
+            "s": "corrimento nasal",
+            "peso": 1.1
+          },
+          {
+            "s": "congestão nasal",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "febre alta"
+          ]
+        }
+      },
+      {
+        "doenca": "Resfriado Comum",
+        "tipo": "fisico",
+        "descricao": "Infecção viral leve das vias aéreas superiores, geralmente causada por rinovírus.",
+        "tratamento": "Repouso, hidratação, analgésicos leves, descongestionantes nasais.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "corrimento nasal",
+            "peso": 1.4
+          },
+          {
+            "s": "congestão nasal",
+            "peso": 1.3
+          },
+          {
+            "s": "espirros",
+            "peso": 1.3
+          },
+          {
+            "s": "dor de garganta",
+            "peso": 1.2
+          },
+          {
+            "s": "tosse",
+            "peso": 1.1
+          },
+          {
+            "s": "mal-estar geral",
+            "peso": 1.0
+          },
+          {
+            "s": "febre baixa",
+            "peso": 0.8
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "corrimento nasal"
+          ]
+        }
+      },
+      {
+        "doenca": "Gastrite",
+        "tipo": "fisico",
+        "descricao": "Inflamação da mucosa gástrica, podendo ser aguda ou crônica. Frequentemente associada a H. pylori, AINEs ou álcool.",
+        "tratamento": "Inibidores de bomba de prótons (omeprazol), antiácidos, dieta leve, evitar álcool, tabaco e AINEs. Erradicar H. pylori se presente.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "dor abdominal",
+            "peso": 1.4
+          },
+          {
+            "s": "queimação no estômago",
+            "peso": 1.3
+          },
+          {
+            "s": "azia",
+            "peso": 1.3
+          },
+          {
+            "s": "náusea",
+            "peso": 1.1
+          },
+          {
+            "s": "vômito",
+            "peso": 1.0
+          },
+          {
+            "s": "empachamento",
+            "peso": 1.1
+          },
+          {
+            "s": "eructação",
+            "peso": 0.9
+          },
+          {
+            "s": "inchaço abdominal",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "dor abdominal"
+          ]
+        }
+      },
+      {
+        "doenca": "Doença do Refluxo Gastroesofágico",
+        "tipo": "fisico",
+        "descricao": "Retorno do conteúdo gástrico para o esôfago, causando sintomas como azia e regurgitação.",
+        "tratamento": "Inibidores de bomba de prótons, antiácidos, mudanças dietéticas, elevação da cabeceira da cama, evitar refeições antes de deitar.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "azia",
+            "peso": 1.5
+          },
+          {
+            "s": "queimação no peito",
+            "peso": 1.4
+          },
+          {
+            "s": "regurgitação",
+            "peso": 1.4
+          },
+          {
+            "s": "gosto amargo na boca",
+            "peso": 1.2
+          },
+          {
+            "s": "tosse seca",
+            "peso": 1.1
+          },
+          {
+            "s": "rouquidão",
+            "peso": 1.0
+          },
+          {
+            "s": "pigarro",
+            "peso": 1.0
+          },
+          {
+            "s": "dor torácica",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "azia"
+          ]
+        }
+      },
+      {
+        "doenca": "Síndrome do Intestino Irritável",
+        "tipo": "fisico",
+        "descricao": "Distúrbio funcional do trato gastrointestinal caracterizado por dor abdominal e alterações do hábito intestinal.",
+        "tratamento": "Dieta pobre em FODMAPs, fibras solúveis, antiespasmódicos, probióticos, manejo do estresse.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "dor abdominal",
+            "peso": 1.4
+          },
+          {
+            "s": "cólica abdominal",
+            "peso": 1.3
+          },
+          {
+            "s": "inchaço abdominal",
+            "peso": 1.3
+          },
+          {
+            "s": "diarreia",
+            "peso": 1.2
+          },
+          {
+            "s": "constipação",
+            "peso": 1.2
+          },
+          {
+            "s": "alternância diarreia-constipação",
+            "peso": 1.1
+          },
+          {
+            "s": "flatulência",
+            "peso": 1.1
+          },
+          {
+            "s": "muco nas fezes",
+            "peso": 0.9
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dor abdominal"
+          ]
+        }
+      },
+      {
+        "doenca": "Artrite Reumatoide",
+        "tipo": "fisico",
+        "descricao": "Doença autoimune crônica que afeta principalmente as articulações, causando inflamação, dor e deformidade progressiva.",
+        "tratamento": "DMARDs (metotrexato), biológicos, anti-inflamatórios, corticoides, fisioterapia, exercícios.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "artralgia",
+            "peso": 1.5
+          },
+          {
+            "s": "inchaço articular",
+            "peso": 1.4
+          },
+          {
+            "s": "rigidez matinal",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.2
+          },
+          {
+            "s": "febre baixa",
+            "peso": 1.0
+          },
+          {
+            "s": "deformidade articular",
+            "peso": 1.3
+          },
+          {
+            "s": "nódulos reumatoides",
+            "peso": 1.2
+          },
+          {
+            "s": "simetria articular",
+            "peso": 1.2
+          },
+          {
+            "s": "limitação de movimento",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "artralgia",
+            "rigidez matinal"
+          ]
+        }
+      },
+      {
+        "doenca": "Osteoartrite",
+        "tipo": "fisico",
+        "descricao": "Doença degenerativa articular caracterizada pelo desgaste da cartilagem, mais comum em idosos.",
+        "tratamento": "Analgésicos, anti-inflamatórios, fisioterapia, exercícios de fortalecimento, perda de peso, prótese articular em casos avançados.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "dor articular",
+            "peso": 1.5
+          },
+          {
+            "s": "rigidez articular",
+            "peso": 1.3
+          },
+          {
+            "s": "crepitação",
+            "peso": 1.2
+          },
+          {
+            "s": "limitação de movimento",
+            "peso": 1.3
+          },
+          {
+            "s": "inchaço articular",
+            "peso": 1.1
+          },
+          {
+            "s": "piora com atividade",
+            "peso": 1.2
+          },
+          {
+            "s": "deformidade articular",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "dor articular"
+          ]
+        }
+      },
+      {
+        "doenca": "Anemia Ferropriva",
+        "tipo": "fisico",
+        "descricao": "Deficiência de ferro no organismo, levando à redução da síntese de hemoglobina e anemia microcítica hipocrômica.",
+        "tratamento": "Suplementação de ferro oral (sulfato ferroso), dieta rica em ferro, tratar causa da perda de sangue (menorragia, úlceras).",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "fadiga",
+            "peso": 1.5
+          },
+          {
+            "s": "palidez",
+            "peso": 1.4
+          },
+          {
+            "s": "fraqueza",
+            "peso": 1.3
+          },
+          {
+            "s": "tontura",
+            "peso": 1.2
+          },
+          {
+            "s": "falta de ar",
+            "peso": 1.2
+          },
+          {
+            "s": "taquicardia",
+            "peso": 1.1
+          },
+          {
+            "s": "unhas quebradiças",
+            "peso": 1.0
+          },
+          {
+            "s": "pica",
+            "peso": 1.1
+          },
+          {
+            "s": "cefaleia",
+            "peso": 1.0
+          },
+          {
+            "s": "palpitação",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "fadiga",
+            "palidez"
+          ]
+        }
+      },
+      {
+        "doenca": "Infecção Urinária",
+        "tipo": "fisico",
+        "descricao": "Infecção bacteriana do trato urinário (cistite, uretrite, pielonefrite), mais comum em mulheres.",
+        "tratamento": "Antibióticos (nitrofurantoína, sulfametoxazol-trimetoprim, ciprofloxacino), hidratação, analgésicos urinários.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "disúria",
+            "peso": 1.5
+          },
+          {
+            "s": "polaciúria",
+            "peso": 1.4
+          },
+          {
+            "s": "urgência urinária",
+            "peso": 1.4
+          },
+          {
+            "s": "dor suprapúbica",
+            "peso": 1.2
+          },
+          {
+            "s": "urina turva",
+            "peso": 1.1
+          },
+          {
+            "s": "urina com odor forte",
+            "peso": 1.0
+          },
+          {
+            "s": "hematúria",
+            "peso": 1.0
+          },
+          {
+            "s": "febre",
+            "peso": 0.8
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "disúria"
+          ]
+        }
+      },
+      {
+        "doenca": "Cálculo Renal",
+        "tipo": "fisico",
+        "descricao": "Formação de cálculos no sistema urinário, podendo causar obstrução e dor intensa (cólica nefrética).",
+        "tratamento": "Analgésicos potentes, hidratação, anti-inflamatórios. Litotripsia ou cirurgia para cálculos maiores.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dor lombar intensa",
+            "peso": 1.6
+          },
+          {
+            "s": "dor em cólica",
+            "peso": 1.5
+          },
+          {
+            "s": "irradiação para virilha",
+            "peso": 1.4
+          },
+          {
+            "s": "hematúria",
+            "peso": 1.3
+          },
+          {
+            "s": "náusea",
+            "peso": 1.2
+          },
+          {
+            "s": "vômito",
+            "peso": 1.2
+          },
+          {
+            "s": "disúria",
+            "peso": 1.1
+          },
+          {
+            "s": "sudorese",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dor lombar intensa"
+          ]
+        }
+      },
+      {
+        "doenca": "Conjuntivite",
+        "tipo": "fisico",
+        "descricao": "Inflamação da conjuntiva ocular, podendo ser viral, bacteriana ou alérgica.",
+        "tratamento": "Compressas frias, lágrimas artificiais, colírios antibióticos (se bacteriana), anti-histamínicos (se alérgica).",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "olhos vermelhos",
+            "peso": 1.5
+          },
+          {
+            "s": "prurido ocular",
+            "peso": 1.3
+          },
+          {
+            "s": "lacrimejamento",
+            "peso": 1.3
+          },
+          {
+            "s": "secreção ocular",
+            "peso": 1.4
+          },
+          {
+            "s": "fotofobia",
+            "peso": 1.1
+          },
+          {
+            "s": "sensação de areia",
+            "peso": 1.2
+          },
+          {
+            "s": "edema palpebral",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "olhos vermelhos"
+          ]
+        }
+      },
+      {
+        "doenca": "Otite Média",
+        "tipo": "fisico",
+        "descricao": "Infecção do ouvido médio, comum em crianças, geralmente após infecções respiratórias.",
+        "tratamento": "Analgésicos, antibióticos em casos selecionados, observação em casos leves.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "otalgia",
+            "peso": 1.5
+          },
+          {
+            "s": "febre",
+            "peso": 1.2
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.1
+          },
+          {
+            "s": "otorreia",
+            "peso": 1.2
+          },
+          {
+            "s": "hipoacusia",
+            "peso": 1.1
+          },
+          {
+            "s": "sensação de ouvido tampado",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "otalgia"
+          ]
+        }
+      },
+      {
+        "doenca": "Labirintite",
+        "tipo": "fisico",
+        "descricao": "Inflamação do labirinto, estrutura do ouvido interno responsável pelo equilíbrio e audição.",
+        "tratamento": "Antivertiginosos (dimenidrinato, betaistina), repouso, hidratação, antieméticos.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "vertigem",
+            "peso": 1.6
+          },
+          {
+            "s": "tontura",
+            "peso": 1.5
+          },
+          {
+            "s": "náusea",
+            "peso": 1.3
+          },
+          {
+            "s": "vômito",
+            "peso": 1.2
+          },
+          {
+            "s": "zumbido",
+            "peso": 1.2
+          },
+          {
+            "s": "hipoacusia",
+            "peso": 1.1
+          },
+          {
+            "s": "desequilíbrio",
+            "peso": 1.4
+          },
+          {
+            "s": "nistagmo",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "vertigem"
+          ]
+        }
+      },
+      {
+        "doenca": "Sinusite",
+        "tipo": "fisico",
+        "descricao": "Inflamação dos seios paranasais, geralmente secundária a infecções virais ou alérgicas.",
+        "tratamento": "Lavagem nasal com soro fisiológico, descongestionantes, analgésicos, antibióticos se bacteriana persistente.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "dor facial",
+            "peso": 1.4
+          },
+          {
+            "s": "congestão nasal",
+            "peso": 1.4
+          },
+          {
+            "s": "secreção nasal purulenta",
+            "peso": 1.3
+          },
+          {
+            "s": "cefaleia",
+            "peso": 1.2
+          },
+          {
+            "s": "dor de dente",
+            "peso": 1.0
+          },
+          {
+            "s": "febre",
+            "peso": 0.9
+          },
+          {
+            "s": "tosse",
+            "peso": 1.0
+          },
+          {
+            "s": "halitose",
+            "peso": 0.8
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "congestão nasal",
+            "dor facial"
+          ]
+        }
+      },
+      {
+        "doenca": "Rinite Alérgica",
+        "tipo": "fisico",
+        "descricao": "Inflamação da mucosa nasal desencadeada por alérgenos (ácaros, pólen, pelos de animais).",
+        "tratamento": "Anti-histamínicos orais ou nasais, corticoides nasais, evitar alérgenos, imunoterapia.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "espirros",
+            "peso": 1.5
+          },
+          {
+            "s": "corrimento nasal",
+            "peso": 1.4
+          },
+          {
+            "s": "congestão nasal",
+            "peso": 1.3
+          },
+          {
+            "s": "prurido nasal",
+            "peso": 1.4
+          },
+          {
+            "s": "prurido ocular",
+            "peso": 1.2
+          },
+          {
+            "s": "lacrimejamento",
+            "peso": 1.1
+          },
+          {
+            "s": "pigarro",
+            "peso": 0.9
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "espirros",
+            "corrimento nasal"
+          ]
+        }
+      },
+      {
+        "doenca": "Enxaqueca",
+        "tipo": "fisico",
+        "descricao": "Cefaleia primária caracterizada por crises recorrentes de dor pulsátil, geralmente unilateral, associada a náuseas e fotofobia.",
+        "tratamento": "Analgésicos, triptanos para crises agudas. Prevenção com betabloqueadores, anticonvulsivantes, toxina botulínica.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "cefaleia latejante",
+            "peso": 1.5
+          },
+          {
+            "s": "dor unilateral",
+            "peso": 1.4
+          },
+          {
+            "s": "náusea",
+            "peso": 1.3
+          },
+          {
+            "s": "vômito",
+            "peso": 1.2
+          },
+          {
+            "s": "fotofobia",
+            "peso": 1.3
+          },
+          {
+            "s": "fonofobia",
+            "peso": 1.2
+          },
+          {
+            "s": "aura visual",
+            "peso": 1.2
+          },
+          {
+            "s": "piora com atividade",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "cefaleia latejante"
+          ]
+        }
+      },
+      {
+        "doenca": "Apendicite Aguda",
+        "tipo": "fisico",
+        "descricao": "Inflamação aguda do apêndice vermiforme, uma emergência cirúrgica comum.",
+        "tratamento": "Apendicectomia (cirurgia para remoção do apêndice), antibióticos.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dor abdominal periumbilical",
+            "peso": 1.4
+          },
+          {
+            "s": "migração para fossa ilíaca direita",
+            "peso": 1.5
+          },
+          {
+            "s": "náusea",
+            "peso": 1.2
+          },
+          {
+            "s": "vômito",
+            "peso": 1.1
+          },
+          {
+            "s": "anorexia",
+            "peso": 1.3
+          },
+          {
+            "s": "febre baixa",
+            "peso": 1.1
+          },
+          {
+            "s": "defesa abdominal",
+            "peso": 1.2
+          },
+          {
+            "s": "sinal de Blumberg",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "migração para fossa ilíaca direita"
+          ]
+        }
+      },
+      {
+        "doenca": "Hipotireoidismo",
+        "tipo": "fisico",
+        "descricao": "Diminuição da produção de hormônios tireoidianos (T3 e T4), levando a metabolismo lento.",
+        "tratamento": "Reposição hormonal com levotiroxina sódica diária.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "fadiga",
+            "peso": 1.5
+          },
+          {
+            "s": "ganho de peso",
+            "peso": 1.3
+          },
+          {
+            "s": "intolerância ao frio",
+            "peso": 1.3
+          },
+          {
+            "s": "pele seca",
+            "peso": 1.2
+          },
+          {
+            "s": "constipação",
+            "peso": 1.2
+          },
+          {
+            "s": "depressão",
+            "peso": 1.1
+          },
+          {
+            "s": "bradicardia",
+            "peso": 1.0
+          },
+          {
+            "s": "mixedema",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "fadiga"
+          ]
+        }
+      },
+      {
+        "doenca": "Hipertireoidismo",
+        "tipo": "fisico",
+        "descricao": "Aumento da produção de hormônios tireoidianos, acelerando o metabolismo. A Doença de Graves é a causa mais comum.",
+        "tratamento": "Drogas antitireoidianas (metimazol, propiltiouracil), iodo radioativo, cirurgia.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "perda de peso",
+            "peso": 1.4
+          },
+          {
+            "s": "taquicardia",
+            "peso": 1.3
+          },
+          {
+            "s": "palpitação",
+            "peso": 1.3
+          },
+          {
+            "s": "intolerância ao calor",
+            "peso": 1.3
+          },
+          {
+            "s": "sudorese",
+            "peso": 1.2
+          },
+          {
+            "s": "tremores",
+            "peso": 1.2
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.2
+          },
+          {
+            "s": "exoftalmia",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "perda de peso",
+            "taquicardia"
+          ]
+        }
+      },
+      {
+        "doenca": "Infarto Agudo do Miocárdio",
+        "tipo": "fisico",
+        "descricao": "Necrose do músculo cardíaco por obstrução aguda da artéria coronária. Emergência médica.",
+        "tratamento": "Angioplastia primária, trombólise, antiagregantes plaquetários, betabloqueadores, IECA, estatinas.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dor torácica intensa",
+            "peso": 1.6
+          },
+          {
+            "s": "dor precordial",
+            "peso": 1.5
+          },
+          {
+            "s": "irradiação para braço esquerdo",
+            "peso": 1.4
+          },
+          {
+            "s": "irradiação para mandíbula",
+            "peso": 1.3
+          },
+          {
+            "s": "sudorese fria",
+            "peso": 1.3
+          },
+          {
+            "s": "náusea",
+            "peso": 1.1
+          },
+          {
+            "s": "vômito",
+            "peso": 1.0
+          },
+          {
+            "s": "dispneia",
+            "peso": 1.3
+          },
+          {
+            "s": "palidez",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dor torácica intensa"
+          ]
+        }
+      },
+      {
+        "doenca": "Acidente Vascular Cerebral Isquêmico",
+        "tipo": "fisico",
+        "descricao": "Déficit neurológico súbito por obstrução de vaso cerebral. Emergência médica.",
+        "tratamento": "Trombólise nas primeiras 4,5h, trombectomia mecânica, antiagregantes, controle de fatores de risco.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "fraqueza súbita",
+            "peso": 1.6
+          },
+          {
+            "s": "paralisia facial",
+            "peso": 1.5
+          },
+          {
+            "s": "hemiplegia",
+            "peso": 1.5
+          },
+          {
+            "s": "dificuldade para falar",
+            "peso": 1.5
+          },
+          {
+            "s": "afasia",
+            "peso": 1.4
+          },
+          {
+            "s": "disartria",
+            "peso": 1.3
+          },
+          {
+            "s": "perda visual súbita",
+            "peso": 1.3
+          },
+          {
+            "s": "tontura intensa",
+            "peso": 1.2
+          },
+          {
+            "s": "cefaleia intensa",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "fraqueza súbita"
+          ]
+        }
+      },
+      {
+        "doenca": "Malária",
+        "tipo": "fisico",
+        "descricao": "Doença infecciosa parasitária transmitida pelo mosquito Anopheles fêmea, causada por protozoários do gênero Plasmodium. Endêmica em regiões tropicais.",
+        "tratamento": "Antimaláricos (cloroquina, artemisina, primaquina), hidratação, internação em casos graves.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "febre em picos",
+            "peso": 1.6
+          },
+          {
+            "s": "calafrios com tremores",
+            "peso": 1.5
+          },
+          {
+            "s": "suores profusos após febre",
+            "peso": 1.5
+          },
+          {
+            "s": "febre terçã",
+            "peso": 1.4
+          },
+          {
+            "s": "cefaleia",
+            "peso": 1.3
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "mialgia",
+            "peso": 1.2
+          },
+          {
+            "s": "esplenomegalia por infecção",
+            "peso": 1.2
+          },
+          {
+            "s": "anemia por infecção",
+            "peso": 1.1
+          },
+          {
+            "s": "náusea",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "febre em picos",
+            "calafrios com tremores"
+          ]
+        }
+      },
+      {
+        "doenca": "Zika Vírus",
+        "tipo": "fisico",
+        "descricao": "Infecção viral transmitida pelo Aedes aegypti, associada a síndrome de Guillain-Barré em adultos e microcefalia em bebês de mães infectadas durante a gestação.",
+        "tratamento": "Tratamento sintomático: repouso, hidratação, paracetamol. Não há antiviral específico.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "febre baixa",
+            "peso": 1.4
+          },
+          {
+            "s": "exantema morbiliforme",
+            "peso": 1.5
+          },
+          {
+            "s": "prurido",
+            "peso": 1.4
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.3
+          },
+          {
+            "s": "conjuntivite",
+            "peso": 1.2
+          },
+          {
+            "s": "cefaleia",
+            "peso": 1.1
+          },
+          {
+            "s": "mialgia",
+            "peso": 1.1
+          },
+          {
+            "s": "edema articular",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "exantema morbiliforme"
+          ]
+        }
+      },
+      {
+        "doenca": "Chikungunya",
+        "tipo": "fisico",
+        "descricao": "Doença viral transmitida pelo Aedes aegypti e Aedes albopictus, caracterizada por febre e artralgia intensa e incapacitante.",
+        "tratamento": "Tratamento sintomático: repouso, analgésicos, anti-inflamatórios. Evitar AAS. Fisioterapia para artralgia crônica.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "febre alta",
+            "peso": 1.5
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.6
+          },
+          {
+            "s": "dor articular intensa",
+            "peso": 1.5
+          },
+          {
+            "s": "inchaço articular",
+            "peso": 1.3
+          },
+          {
+            "s": "exantema",
+            "peso": 1.2
+          },
+          {
+            "s": "mialgia",
+            "peso": 1.2
+          },
+          {
+            "s": "cefaleia",
+            "peso": 1.1
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.2
+          },
+          {
+            "s": "rigidez articular",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "febre alta",
+            "artralgia"
+          ]
+        }
+      },
+      {
+        "doenca": "Lúpus Eritematoso Sistêmico",
+        "tipo": "fisico",
+        "descricao": "Doença autoimune crônica que pode afetar múltiplos órgãos: pele, articulações, rins, coração, pulmões e sistema nervoso.",
+        "tratamento": "Hidroxicloroquina, corticoides, imunossupressores (azatioprina, micofenolato), belimumabe. Protetor solar e evitar exposição solar.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "lesão em asa de borboleta",
+            "peso": 1.6
+          },
+          {
+            "s": "fotossensibilidade",
+            "peso": 1.4
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "febre",
+            "peso": 1.2
+          },
+          {
+            "s": "alopecia",
+            "peso": 1.2
+          },
+          {
+            "s": "úlceras orais",
+            "peso": 1.3
+          },
+          {
+            "s": "pleurite",
+            "peso": 1.2
+          },
+          {
+            "s": "proteinúria",
+            "peso": 1.3
+          },
+          {
+            "s": "linfadenopatia",
+            "peso": 1.1
+          },
+          {
+            "s": "fenômeno de Raynaud",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "lesão em asa de borboleta"
+          ]
+        }
+      },
+      {
+        "doenca": "Fibromialgia",
+        "tipo": "fisico",
+        "descricao": "Síndrome de dor crônica e difusa associada a fadiga, distúrbios do sono, dificuldade cognitiva e múltiplos pontos sensíveis ao toque.",
+        "tratamento": "Antidepressivos (duloxetina, amitriptilina), anticonvulsivantes (pregabalina, gabapentina), exercício aeróbico, psicoterapia, fisioterapia.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "dor crônica difusa",
+            "peso": 1.6
+          },
+          {
+            "s": "hipersensibilidade muscular",
+            "peso": 1.5
+          },
+          {
+            "s": "dor ao toque",
+            "peso": 1.5
+          },
+          {
+            "s": "alodinia",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga crônica inexplicada",
+            "peso": 1.4
+          },
+          {
+            "s": "sono não reparador",
+            "peso": 1.3
+          },
+          {
+            "s": "falta de concentração",
+            "peso": 1.2
+          },
+          {
+            "s": "síndrome das pernas inquietas",
+            "peso": 1.1
+          },
+          {
+            "s": "cefaleia",
+            "peso": 1.1
+          },
+          {
+            "s": "dor abdominal",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "dor crônica difusa",
+            "hipersensibilidade muscular"
+          ]
+        }
+      },
+      {
+        "doenca": "Doença de Parkinson",
+        "tipo": "fisico",
+        "descricao": "Doença neurodegenerativa progressiva que afeta o sistema motor, causada pela perda de neurônios dopaminérgicos na substância negra.",
+        "tratamento": "Levodopa/carbidopa, agonistas dopaminérgicos, inibidores de MAO-B, estimulação cerebral profunda, fisioterapia, fonoaudiologia.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "tremor de repouso",
+            "peso": 1.6
+          },
+          {
+            "s": "rigidez muscular",
+            "peso": 1.5
+          },
+          {
+            "s": "bradicinesia",
+            "peso": 1.5
+          },
+          {
+            "s": "marcha parkinsoniana",
+            "peso": 1.4
+          },
+          {
+            "s": "marcha arrastada",
+            "peso": 1.3
+          },
+          {
+            "s": "postura curvada",
+            "peso": 1.3
+          },
+          {
+            "s": "instabilidade ao andar",
+            "peso": 1.3
+          },
+          {
+            "s": "hipomimia",
+            "peso": 1.2
+          },
+          {
+            "s": "micrografia",
+            "peso": 1.2
+          },
+          {
+            "s": "disfagia",
+            "peso": 1.1
+          },
+          {
+            "s": "disfonia",
+            "peso": 1.0
+          },
+          {
+            "s": "constipação",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "tremor de repouso",
+            "rigidez muscular"
+          ]
+        }
+      },
+      {
+        "doenca": "Esclerose Múltipla",
+        "tipo": "fisico",
+        "descricao": "Doença autoimune desmielinizante do sistema nervoso central, com surtos de déficits neurológicos variados e evolução imprevisível.",
+        "tratamento": "Imunomoduladores (interferon beta, acetato de glatiramer), natalizumabe, ocrelizumabe, corticoides nas crises, reabilitação.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "fraqueza muscular",
+            "peso": 1.5
+          },
+          {
+            "s": "parestesia",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.4
+          },
+          {
+            "s": "visão turva",
+            "peso": 1.3
+          },
+          {
+            "s": "diplopia",
+            "peso": 1.2
+          },
+          {
+            "s": "nistagmo",
+            "peso": 1.2
+          },
+          {
+            "s": "ataxia",
+            "peso": 1.3
+          },
+          {
+            "s": "espasticidade",
+            "peso": 1.3
+          },
+          {
+            "s": "incontinência urinária",
+            "peso": 1.2
+          },
+          {
+            "s": "disfunção erétil",
+            "peso": 1.0
+          },
+          {
+            "s": "dor neuropática",
+            "peso": 1.1
+          },
+          {
+            "s": "sinal de Lhermitte",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "fraqueza muscular",
+            "parestesia"
+          ]
+        }
+      },
+      {
+        "doenca": "Insuficiência Cardíaca Congestiva",
+        "tipo": "fisico",
+        "descricao": "Incapacidade do coração de bombear sangue suficiente para suprir as necessidades do organismo. Pode ser sistólica ou diastólica.",
+        "tratamento": "IECA/BRA, betabloqueadores, diuréticos, espironolactona, sacubitril/valsartana, dispositivos implantáveis, transplante cardíaco em casos refratários.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dispneia",
+            "peso": 1.5
+          },
+          {
+            "s": "ortopneia",
+            "peso": 1.5
+          },
+          {
+            "s": "dispneia paroxística noturna",
+            "peso": 1.4
+          },
+          {
+            "s": "edema de membros inferiores",
+            "peso": 1.5
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "intolerância ao esforço",
+            "peso": 1.4
+          },
+          {
+            "s": "taquicardia",
+            "peso": 1.2
+          },
+          {
+            "s": "derrame pleural",
+            "peso": 1.2
+          },
+          {
+            "s": "ascite",
+            "peso": 1.1
+          },
+          {
+            "s": "hepatomegalia",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dispneia",
+            "edema de membros inferiores"
+          ]
+        }
+      },
+      {
+        "doenca": "DPOC (Doença Pulmonar Obstrutiva Crônica)",
+        "tipo": "fisico",
+        "descricao": "Doença respiratória crônica caracterizada por obstrução progressiva e irreversível do fluxo de ar, associada principalmente ao tabagismo.",
+        "tratamento": "Broncodilatadores inalatórios (LABA, LAMA), corticoides inalatórios, oxigenoterapia domiciliar, reabilitação pulmonar, cessação do tabagismo.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dispneia progressiva",
+            "peso": 1.5
+          },
+          {
+            "s": "tosse crônica",
+            "peso": 1.4
+          },
+          {
+            "s": "tosse produtiva",
+            "peso": 1.3
+          },
+          {
+            "s": "expectoração",
+            "peso": 1.3
+          },
+          {
+            "s": "chiado no peito",
+            "peso": 1.2
+          },
+          {
+            "s": "sibilos",
+            "peso": 1.2
+          },
+          {
+            "s": "intolerância ao esforço",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.2
+          },
+          {
+            "s": "cianose",
+            "peso": 1.0
+          },
+          {
+            "s": "baqueteamento digital",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dispneia progressiva",
+            "tosse crônica"
+          ]
+        }
+      },
+      {
+        "doenca": "Tuberculose Pulmonar",
+        "tipo": "fisico",
+        "descricao": "Doença infecciosa bacteriana causada pelo Mycobacterium tuberculosis, transmitida por via aérea e que afeta principalmente os pulmões.",
+        "tratamento": "Esquema RHZE (rifampicina, isoniazida, pirazinamida, etambutol) por 6 meses. Isolamento respiratório na fase inicial.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "tosse persistente",
+            "peso": 1.5
+          },
+          {
+            "s": "hemoptise",
+            "peso": 1.4
+          },
+          {
+            "s": "suor noturno",
+            "peso": 1.5
+          },
+          {
+            "s": "perda de peso",
+            "peso": 1.4
+          },
+          {
+            "s": "febre vespertina",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "falta de ar",
+            "peso": 1.2
+          },
+          {
+            "s": "anorexia",
+            "peso": 1.2
+          },
+          {
+            "s": "emagrecimento",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "tosse persistente",
+            "suor noturno"
+          ]
+        }
+      },
+      {
+        "doenca": "HIV/AIDS",
+        "tipo": "fisico",
+        "descricao": "Infecção pelo vírus HIV que compromete progressivamente o sistema imunológico, evoluindo para AIDS com infecções oportunistas e neoplasias.",
+        "tratamento": "Terapia antirretroviral (TARV) com combinação de antiretrovirais. Profilaxia e tratamento de infecções oportunistas.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "infecções recorrentes",
+            "peso": 1.5
+          },
+          {
+            "s": "perda de peso",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga crônica inexplicada",
+            "peso": 1.4
+          },
+          {
+            "s": "suor noturno",
+            "peso": 1.3
+          },
+          {
+            "s": "linfadenopatia",
+            "peso": 1.3
+          },
+          {
+            "s": "febre prolongada",
+            "peso": 1.3
+          },
+          {
+            "s": "diarreia crônica",
+            "peso": 1.2
+          },
+          {
+            "s": "candidíase oral",
+            "peso": 1.2
+          },
+          {
+            "s": "herpes recorrente",
+            "peso": 1.1
+          },
+          {
+            "s": "emagrecimento importante",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "infecções recorrentes"
+          ]
+        }
+      },
+      {
+        "doenca": "Hepatite B",
+        "tipo": "fisico",
+        "descricao": "Infecção viral do fígado causada pelo vírus HBV, transmitida por sangue, relação sexual ou da mãe para o filho. Pode cronificar.",
+        "tratamento": "Antivirais (tenofovir, entecavir) na hepatite crônica. Vacinação preventiva. Interferon peguilado em casos selecionados.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "icterícia",
+            "peso": 1.4
+          },
+          {
+            "s": "náusea",
+            "peso": 1.2
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "dor abdominal",
+            "peso": 1.2
+          },
+          {
+            "s": "urina escura",
+            "peso": 1.3
+          },
+          {
+            "s": "fezes claras",
+            "peso": 1.2
+          },
+          {
+            "s": "anorexia",
+            "peso": 1.2
+          },
+          {
+            "s": "vômito",
+            "peso": 1.1
+          },
+          {
+            "s": "hepatomegalia",
+            "peso": 1.2
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "icterícia"
+          ]
+        }
+      },
+      {
+        "doenca": "Cirrose Hepática",
+        "tipo": "fisico",
+        "descricao": "Estágio terminal de fibrose hepática progressiva com perda da arquitetura do fígado, causada principalmente por álcool, hepatites B e C.",
+        "tratamento": "Tratamento da causa base, abstinência do álcool, diuréticos para ascite, betabloqueadores para hipertensão portal, transplante hepático.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "icterícia progressiva",
+            "peso": 1.5
+          },
+          {
+            "s": "ascite",
+            "peso": 1.5
+          },
+          {
+            "s": "circulação colateral abdominal",
+            "peso": 1.4
+          },
+          {
+            "s": "hematêmese",
+            "peso": 1.4
+          },
+          {
+            "s": "hepatomegalia",
+            "peso": 1.2
+          },
+          {
+            "s": "esplenomegalia",
+            "peso": 1.2
+          },
+          {
+            "s": "edema de membros inferiores",
+            "peso": 1.3
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.2
+          },
+          {
+            "s": "ginecomastia",
+            "peso": 1.1
+          },
+          {
+            "s": "aranhas vasculares",
+            "peso": 1.1
+          },
+          {
+            "s": "encefalopatia hepática",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "icterícia progressiva",
+            "ascite"
+          ]
+        }
+      },
+      {
+        "doenca": "Doença de Crohn",
+        "tipo": "fisico",
+        "descricao": "Doença inflamatória intestinal crônica que pode afetar qualquer segmento do trato gastrointestinal, com inflamação transmural.",
+        "tratamento": "Aminossalicilatos, corticoides, imunossupressores (azatioprina, metotrexato), biológicos (anti-TNF), cirurgia em complicações.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dor abdominal",
+            "peso": 1.5
+          },
+          {
+            "s": "diarreia crônica",
+            "peso": 1.4
+          },
+          {
+            "s": "perda de peso",
+            "peso": 1.3
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "febre",
+            "peso": 1.2
+          },
+          {
+            "s": "fezes com sangue",
+            "peso": 1.2
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.1
+          },
+          {
+            "s": "úlceras orais",
+            "peso": 1.1
+          },
+          {
+            "s": "fístulas",
+            "peso": 1.2
+          },
+          {
+            "s": "linfadenopatia",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dor abdominal",
+            "diarreia crônica"
+          ]
+        }
+      },
+      {
+        "doenca": "Pancreatite Aguda",
+        "tipo": "fisico",
+        "descricao": "Inflamação aguda do pâncreas, frequentemente causada por cálculos biliares ou álcool. Pode variar de leve a potencialmente fatal.",
+        "tratamento": "Jejum, hidratação venosa intensa, analgesia, nutrição enteral precoce. Casos graves em UTI, colangiopancreatografia retrógrada.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dor em barra abdominal",
+            "peso": 1.6
+          },
+          {
+            "s": "dor abdominal superior",
+            "peso": 1.5
+          },
+          {
+            "s": "irradiação para dorso",
+            "peso": 1.4
+          },
+          {
+            "s": "náusea",
+            "peso": 1.3
+          },
+          {
+            "s": "vômito",
+            "peso": 1.3
+          },
+          {
+            "s": "febre",
+            "peso": 1.2
+          },
+          {
+            "s": "distensão abdominal",
+            "peso": 1.2
+          },
+          {
+            "s": "icterícia",
+            "peso": 1.1
+          },
+          {
+            "s": "taquicardia",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dor em barra abdominal"
+          ]
+        }
+      },
+      {
+        "doenca": "Insuficiência Renal Crônica",
+        "tipo": "fisico",
+        "descricao": "Perda progressiva e irreversível da função renal. Estágio terminal requer diálise ou transplante renal.",
+        "tratamento": "Controle da causa base, dieta hipoproteica e hipossódica, anti-hipertensivos, eritropoetina, diálise, transplante renal.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "edema",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "náusea",
+            "peso": 1.3
+          },
+          {
+            "s": "anorexia",
+            "peso": 1.2
+          },
+          {
+            "s": "prurido",
+            "peso": 1.3
+          },
+          {
+            "s": "palidez",
+            "peso": 1.2
+          },
+          {
+            "s": "hematúria",
+            "peso": 1.2
+          },
+          {
+            "s": "proteinúria",
+            "peso": 1.3
+          },
+          {
+            "s": "oligúria",
+            "peso": 1.2
+          },
+          {
+            "s": "hipertensão arterial",
+            "peso": 1.3
+          },
+          {
+            "s": "confusão mental",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "edema",
+            "fadiga"
+          ]
+        }
+      },
+      {
+        "doenca": "Gota",
+        "tipo": "fisico",
+        "descricao": "Artrite inflamatória causada pelo depósito de cristais de urato monossódico nas articulações, decorrente de hiperuricemia.",
+        "tratamento": "Colchicina, anti-inflamatórios na crise aguda. Alopurinol para redução do ácido úrico. Dieta com restrição de purinas.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "dor articular intensa",
+            "peso": 1.6
+          },
+          {
+            "s": "inchaço articular",
+            "peso": 1.5
+          },
+          {
+            "s": "eritema e calor local",
+            "peso": 1.4
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.4
+          },
+          {
+            "s": "dor no hálux",
+            "peso": 1.3
+          },
+          {
+            "s": "tofos",
+            "peso": 1.3
+          },
+          {
+            "s": "febre",
+            "peso": 1.1
+          },
+          {
+            "s": "limitação de movimento",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dor articular intensa",
+            "eritema e calor local"
+          ]
+        }
+      },
+      {
+        "doenca": "Epilepsia",
+        "tipo": "fisico",
+        "descricao": "Transtorno neurológico crônico caracterizado por crises epilépticas recorrentes, causadas por atividade elétrica anormal no cérebro.",
+        "tratamento": "Anticonvulsivantes (valproato, lamotrigina, carbamazepina, levetiracetam). Cirurgia em casos refratários. Dieta cetogênica.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "convulsão",
+            "peso": 1.6
+          },
+          {
+            "s": "crise convulsiva",
+            "peso": 1.5
+          },
+          {
+            "s": "perda de consciência",
+            "peso": 1.4
+          },
+          {
+            "s": "espasmos",
+            "peso": 1.3
+          },
+          {
+            "s": "mioclonias",
+            "peso": 1.2
+          },
+          {
+            "s": "ausência",
+            "peso": 1.3
+          },
+          {
+            "s": "automatismos",
+            "peso": 1.2
+          },
+          {
+            "s": "confusão pós-ictal",
+            "peso": 1.2
+          },
+          {
+            "s": "mordedura de língua",
+            "peso": 1.1
+          },
+          {
+            "s": "incontinência urinária durante crise",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "convulsão"
+          ]
+        }
+      },
+      {
+        "doenca": "Meningite Bacteriana",
+        "tipo": "fisico",
+        "descricao": "Inflamação das meninges por bactérias (Neisseria meningitidis, Streptococcus pneumoniae). Emergência médica com elevada mortalidade.",
+        "tratamento": "Antibioticoterapia endovenosa imediata (ceftriaxona + dexametasona), isolamento, vacinação preventiva, UTI.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "cefaleia intensa",
+            "peso": 1.5
+          },
+          {
+            "s": "febre alta",
+            "peso": 1.5
+          },
+          {
+            "s": "rigidez de nuca",
+            "peso": 1.6
+          },
+          {
+            "s": "fotofobia",
+            "peso": 1.4
+          },
+          {
+            "s": "fonofobia",
+            "peso": 1.3
+          },
+          {
+            "s": "náusea",
+            "peso": 1.2
+          },
+          {
+            "s": "vômito",
+            "peso": 1.2
+          },
+          {
+            "s": "petéquias",
+            "peso": 1.3
+          },
+          {
+            "s": "alteração da consciência",
+            "peso": 1.4
+          },
+          {
+            "s": "convulsão",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "rigidez de nuca",
+            "febre alta"
+          ]
+        }
+      },
+      {
+        "doenca": "Sepse",
+        "tipo": "fisico",
+        "descricao": "Resposta inflamatória sistêmica disfuncional e potencialmente fatal a uma infecção. Emergência médica com alta mortalidade.",
+        "tratamento": "Antibioticoterapia precoce e de amplo espectro, ressuscitação volêmica, controle do foco infeccioso, suporte em UTI, vasopressores.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "febre alta",
+            "peso": 1.5
+          },
+          {
+            "s": "hipotermia",
+            "peso": 1.2
+          },
+          {
+            "s": "taquicardia",
+            "peso": 1.4
+          },
+          {
+            "s": "taquipneia",
+            "peso": 1.4
+          },
+          {
+            "s": "alteração da consciência",
+            "peso": 1.4
+          },
+          {
+            "s": "hipotensão arterial",
+            "peso": 1.5
+          },
+          {
+            "s": "confusão mental",
+            "peso": 1.3
+          },
+          {
+            "s": "oligúria",
+            "peso": 1.3
+          },
+          {
+            "s": "cianose",
+            "peso": 1.2
+          },
+          {
+            "s": "mal-estar geral",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "taquicardia",
+            "hipotensão arterial"
+          ]
+        }
+      },
+      {
+        "doenca": "Psoríase",
+        "tipo": "fisico",
+        "descricao": "Doença inflamatória crônica da pele, autoimune, caracterizada por placas eritematosas com escamas branco-prateadas, principalmente em cotovelos, joelhos e couro cabeludo.",
+        "tratamento": "Emolientes, corticoides tópicos, análogos da vitamina D, fototerapia (UVB), metotrexato, ciclosporina, biológicos (anti-TNF, anti-IL17).",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "pele com escamas prateadas",
+            "peso": 1.6
+          },
+          {
+            "s": "placas eritematosas",
+            "peso": 1.5
+          },
+          {
+            "s": "lesões simétricas",
+            "peso": 1.3
+          },
+          {
+            "s": "prurido",
+            "peso": 1.3
+          },
+          {
+            "s": "pele espessada",
+            "peso": 1.3
+          },
+          {
+            "s": "descamação",
+            "peso": 1.3
+          },
+          {
+            "s": "artralgia",
+            "peso": 1.1
+          },
+          {
+            "s": "onicólise",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "pele com escamas prateadas",
+            "placas eritematosas"
+          ]
+        }
+      },
+      {
+        "doenca": "Herpes Zóster",
+        "tipo": "fisico",
+        "descricao": "Reativação do vírus varicela-zóster latente nos gânglios nervosos, causando dor e erupção vesicular em dermátomo específico.",
+        "tratamento": "Antivirais (aciclovir, valaciclovir, famciclovir) precocemente, analgésicos, corticoides em casos selecionados, vacina preventiva.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "vesículas em faixa",
+            "peso": 1.6
+          },
+          {
+            "s": "dor em queimação na pele",
+            "peso": 1.5
+          },
+          {
+            "s": "neuralgia pós-herpética",
+            "peso": 1.4
+          },
+          {
+            "s": "prurido",
+            "peso": 1.2
+          },
+          {
+            "s": "febre baixa",
+            "peso": 1.1
+          },
+          {
+            "s": "mal-estar geral",
+            "peso": 1.0
+          },
+          {
+            "s": "hiperestesia",
+            "peso": 1.3
+          },
+          {
+            "s": "eritema localizado",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "vesículas em faixa",
+            "dor em queimação na pele"
+          ]
+        }
+      },
+      {
+        "doenca": "Celulite Infecciosa",
+        "tipo": "fisico",
+        "descricao": "Infecção bacteriana aguda da derme e tecido subcutâneo, geralmente causada por Streptococcus pyogenes ou Staphylococcus aureus.",
+        "tratamento": "Antibióticos (cefalexina, amoxicilina-clavulanato, clindamicina). Casos graves: antibióticos endovenosos. Elevação e repouso do membro.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "eritema e calor local",
+            "peso": 1.5
+          },
+          {
+            "s": "inchaço",
+            "peso": 1.4
+          },
+          {
+            "s": "limites imprecisos na pele",
+            "peso": 1.3
+          },
+          {
+            "s": "febre",
+            "peso": 1.3
+          },
+          {
+            "s": "dor local",
+            "peso": 1.4
+          },
+          {
+            "s": "linfangite",
+            "peso": 1.3
+          },
+          {
+            "s": "linfonodos aumentados",
+            "peso": 1.2
+          },
+          {
+            "s": "mal-estar geral",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "eritema e calor local",
+            "inchaço"
+          ]
+        }
+      },
+      {
+        "doenca": "Doença de Alzheimer",
+        "tipo": "fisico",
+        "descricao": "Doença neurodegenerativa progressiva e mais comum causa de demência, com depósito de placas de beta-amiloide e emaranhados neurofibrilares.",
+        "tratamento": "Inibidores da colinesterase (donepezila, rivastigmina, galantamina), memantina, estimulação cognitiva, suporte familiar.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "perda de memória",
+            "peso": 1.6
+          },
+          {
+            "s": "amnésia anterógrada",
+            "peso": 1.5
+          },
+          {
+            "s": "confusão mental",
+            "peso": 1.4
+          },
+          {
+            "s": "desorientação temporal",
+            "peso": 1.4
+          },
+          {
+            "s": "desorientação espacial",
+            "peso": 1.4
+          },
+          {
+            "s": "dificuldade de planejamento",
+            "peso": 1.3
+          },
+          {
+            "s": "afasia",
+            "peso": 1.2
+          },
+          {
+            "s": "agnosia",
+            "peso": 1.2
+          },
+          {
+            "s": "apraxia",
+            "peso": 1.2
+          },
+          {
+            "s": "alteração de comportamento",
+            "peso": 1.2
+          },
+          {
+            "s": "desinibição",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "perda de memória",
+            "amnésia anterógrada"
+          ]
+        }
+      },
+      {
+        "doenca": "Glaucoma",
+        "tipo": "fisico",
+        "descricao": "Doença ocular progressiva causada principalmente pelo aumento da pressão intraocular, levando a lesão do nervo óptico e perda de visão.",
+        "tratamento": "Colírios hipotensores oculares (beta-bloqueadores, análogos de prostaglandina, inibidores de anidrase carbônica), trabeculoplastia a laser, cirurgia.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "visão em túnel",
+            "peso": 1.5
+          },
+          {
+            "s": "pressão ocular aumentada",
+            "peso": 1.5
+          },
+          {
+            "s": "perda de campo visual",
+            "peso": 1.5
+          },
+          {
+            "s": "dor ocular súbita intensa",
+            "peso": 1.3
+          },
+          {
+            "s": "visão de halos",
+            "peso": 1.3
+          },
+          {
+            "s": "olho vermelho com dor",
+            "peso": 1.2
+          },
+          {
+            "s": "náusea",
+            "peso": 1.1
+          },
+          {
+            "s": "diminuição da visão",
+            "peso": 1.4
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 2,
+          "sintomas_obrigatorios": [
+            "visão em túnel"
+          ]
+        }
+      },
+      {
+        "doenca": "Diabetes Mellitus Tipo 1",
+        "tipo": "fisico",
+        "descricao": "Doença autoimune que destrói as células beta do pâncreas, resultando em deficiência absoluta de insulina. Mais comum em crianças e jovens.",
+        "tratamento": "Insulinoterapia obrigatória (múltiplas doses diárias ou bomba de insulina), monitoramento glicêmico, dieta, exercício físico.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "polidipsia",
+            "peso": 1.5
+          },
+          {
+            "s": "poliúria",
+            "peso": 1.5
+          },
+          {
+            "s": "perda de peso",
+            "peso": 1.5
+          },
+          {
+            "s": "polifagia",
+            "peso": 1.3
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "visão turva",
+            "peso": 1.2
+          },
+          {
+            "s": "cetonúria",
+            "peso": 1.3
+          },
+          {
+            "s": "hálito cetônico",
+            "peso": 1.2
+          },
+          {
+            "s": "náusea",
+            "peso": 1.0
+          },
+          {
+            "s": "vômito",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "polidipsia",
+            "poliúria",
+            "perda de peso"
+          ]
+        }
+      },
+      {
+        "doenca": "Colecistite Aguda",
+        "tipo": "fisico",
+        "descricao": "Inflamação aguda da vesícula biliar, geralmente causada por cálculos biliares que obstruem o ducto cístico.",
+        "tratamento": "Colecistectomia (cirurgia laparoscópica), antibióticos, analgésicos, dieta sem gordura.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "dor abdominal superior",
+            "peso": 1.5
+          },
+          {
+            "s": "dor no hipocôndrio direito",
+            "peso": 1.6
+          },
+          {
+            "s": "náusea",
+            "peso": 1.3
+          },
+          {
+            "s": "vômito",
+            "peso": 1.2
+          },
+          {
+            "s": "febre",
+            "peso": 1.3
+          },
+          {
+            "s": "icterícia",
+            "peso": 1.2
+          },
+          {
+            "s": "intolerância a gorduras",
+            "peso": 1.2
+          },
+          {
+            "s": "sinal de Murphy",
+            "peso": 1.4
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "dor no hipocôndrio direito"
+          ]
+        }
+      }
+    ],
+    "mentais": [
+      {
+        "doenca": "Transtorno de Ansiedade Generalizada",
+        "tipo": "psicologico",
+        "descricao": "Preocupação excessiva e persistente que interfere nas atividades diárias, acompanhada de sintomas físicos de ansiedade.",
+        "tratamento": "Terapia cognitivo-comportamental, ISRS (sertralina, escitalopram), SNRIs (venlafaxina), buspirona, técnicas de relaxamento.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "ansiedade",
+            "peso": 1.5
+          },
+          {
+            "s": "preocupação excessiva",
+            "peso": 1.5
+          },
+          {
+            "s": "inquietação",
+            "peso": 1.3
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.2
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.2
+          },
+          {
+            "s": "tensão muscular",
+            "peso": 1.2
+          },
+          {
+            "s": "insônia",
+            "peso": 1.3
+          },
+          {
+            "s": "falta de concentração",
+            "peso": 1.2
+          },
+          {
+            "s": "sudorese",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "ansiedade",
+            "preocupação excessiva"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno Depressivo Maior",
+        "tipo": "psicologico",
+        "descricao": "Transtorno de humor caracterizado por tristeza profunda, perda de interesse e sintomas que afetam significativamente a vida diária.",
+        "tratamento": "Antidepressivos (ISRS, SNRIs, bupropiona), psicoterapia, terapia cognitivo-comportamental, exercícios físicos, eletroconvulsoterapia em casos refratários.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "depressão",
+            "peso": 1.6
+          },
+          {
+            "s": "tristeza",
+            "peso": 1.5
+          },
+          {
+            "s": "anedonia",
+            "peso": 1.5
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "alteração do apetite",
+            "peso": 1.2
+          },
+          {
+            "s": "insônia",
+            "peso": 1.3
+          },
+          {
+            "s": "hipersonia",
+            "peso": 1.2
+          },
+          {
+            "s": "baixa autoestima",
+            "peso": 1.3
+          },
+          {
+            "s": "culpa excessiva",
+            "peso": 1.2
+          },
+          {
+            "s": "falta de concentração",
+            "peso": 1.2
+          },
+          {
+            "s": "ideação suicida",
+            "peso": 1.6
+          },
+          {
+            "s": "desesperança",
+            "peso": 1.4
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 5,
+          "sintomas_obrigatorios": [
+            "depressão",
+            "anedonia"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno do Pânico",
+        "tipo": "psicologico",
+        "descricao": "Ataques recorrentes e inesperados de pânico, com medo intenso e sintomas físicos graves, frequentemente associado a agorafobia.",
+        "tratamento": "ISRS (sertralina, paroxetina), terapia cognitivo-comportamental, exposição gradual, benzodiazepínicos para crises agudas.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "pânico",
+            "peso": 1.6
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.5
+          },
+          {
+            "s": "palpitação",
+            "peso": 1.4
+          },
+          {
+            "s": "sudorese",
+            "peso": 1.3
+          },
+          {
+            "s": "tremor",
+            "peso": 1.3
+          },
+          {
+            "s": "falta de ar",
+            "peso": 1.4
+          },
+          {
+            "s": "medo",
+            "peso": 1.5
+          },
+          {
+            "s": "tontura",
+            "peso": 1.2
+          },
+          {
+            "s": "despersonalização",
+            "peso": 1.2
+          },
+          {
+            "s": "medo de morrer",
+            "peso": 1.4
+          },
+          {
+            "s": "medo de enlouquecer",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "pânico"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno Obsessivo-Compulsivo",
+        "tipo": "psicologico",
+        "descricao": "Presença de obsessões (pensamentos intrusivos) e compulsões (comportamentos repetitivos) que causam sofrimento significativo e consomem tempo.",
+        "tratamento": "Terapia cognitivo-comportamental com exposição e prevenção de resposta, ISRS em doses altas (fluoxetina, fluvoxamina), clomipramina.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "obsessão",
+            "peso": 1.5
+          },
+          {
+            "s": "compulsão",
+            "peso": 1.5
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.4
+          },
+          {
+            "s": "rituais",
+            "peso": 1.4
+          },
+          {
+            "s": "pensamentos intrusivos",
+            "peso": 1.5
+          },
+          {
+            "s": "medo de contaminação",
+            "peso": 1.3
+          },
+          {
+            "s": "verificação repetitiva",
+            "peso": 1.3
+          },
+          {
+            "s": "lavagem excessiva",
+            "peso": 1.3
+          },
+          {
+            "s": "contagem compulsiva",
+            "peso": 1.2
+          },
+          {
+            "s": "ordenação compulsiva",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "obsessão",
+            "compulsão"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno Bipolar Tipo I",
+        "tipo": "psicologico",
+        "descricao": "Alternância entre episódios de mania (euforia, grandiosidade, energia aumentada) e depressão, com prejuízo funcional significativo.",
+        "tratamento": "Estabilizadores de humor (lítio, valproato, lamotrigina), antipsicóticos atípicos, psicoterapia, psicoeducação.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "mania",
+            "peso": 1.6
+          },
+          {
+            "s": "euforia",
+            "peso": 1.5
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.3
+          },
+          {
+            "s": "diminuição da necessidade de sono",
+            "peso": 1.4
+          },
+          {
+            "s": "aceleração do pensamento",
+            "peso": 1.4
+          },
+          {
+            "s": "grandiosidade",
+            "peso": 1.4
+          },
+          {
+            "s": "verborragia",
+            "peso": 1.3
+          },
+          {
+            "s": "distraibilidade",
+            "peso": 1.2
+          },
+          {
+            "s": "comportamento de risco",
+            "peso": 1.3
+          },
+          {
+            "s": "depressão",
+            "peso": 1.5
+          },
+          {
+            "s": "anedonia",
+            "peso": 1.4
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "mania",
+            "depressão"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno de Estresse Pós-Traumático",
+        "tipo": "psicologico",
+        "descricao": "Desenvolvimento de sintomas característicos após exposição a evento traumático, com revivência, evitação e hipervigilância.",
+        "tratamento": "Terapia cognitivo-comportamental focada no trauma, EMDR, ISRS (sertralina, paroxetina), prazosina para pesadelos.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "flashbacks",
+            "peso": 1.5
+          },
+          {
+            "s": "pesadelos",
+            "peso": 1.4
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.4
+          },
+          {
+            "s": "hipervigilância",
+            "peso": 1.3
+          },
+          {
+            "s": "evitação",
+            "peso": 1.3
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.2
+          },
+          {
+            "s": "insônia",
+            "peso": 1.3
+          },
+          {
+            "s": "depressão",
+            "peso": 1.3
+          },
+          {
+            "s": "resposta de sobressalto",
+            "peso": 1.2
+          },
+          {
+            "s": "despersonalização",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "flashbacks"
+          ]
+        }
+      },
+      {
+        "doenca": "Síndrome de Burnout",
+        "tipo": "psicologico",
+        "descricao": "Esgotamento físico e emocional relacionado ao trabalho, com despersonalização e redução da realização profissional.",
+        "tratamento": "Psicoterapia, redução de estresse, mudanças no estilo de vida e ambiente de trabalho, afastamento temporário se necessário.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "fadiga",
+            "peso": 1.5
+          },
+          {
+            "s": "exaustão emocional",
+            "peso": 1.5
+          },
+          {
+            "s": "depressão",
+            "peso": 1.3
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.3
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.2
+          },
+          {
+            "s": "insônia",
+            "peso": 1.2
+          },
+          {
+            "s": "apatia",
+            "peso": 1.3
+          },
+          {
+            "s": "falta de concentração",
+            "peso": 1.2
+          },
+          {
+            "s": "cinismo",
+            "peso": 1.2
+          },
+          {
+            "s": "baixa realização profissional",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "exaustão emocional"
+          ]
+        }
+      },
+      {
+        "doenca": "Fobia Social (Transtorno de Ansiedade Social)",
+        "tipo": "psicologico",
+        "descricao": "Medo intenso e persistente de situações sociais ou de desempenho, com medo de ser avaliado negativamente pelos outros.",
+        "tratamento": "Terapia cognitivo-comportamental, exposição gradual, ISRS (paroxetina, sertralina), betabloqueadores para ansiedade de desempenho.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "fobia social",
+            "peso": 1.5
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.4
+          },
+          {
+            "s": "medo",
+            "peso": 1.4
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.3
+          },
+          {
+            "s": "timidez excessiva",
+            "peso": 1.3
+          },
+          {
+            "s": "palpitação",
+            "peso": 1.2
+          },
+          {
+            "s": "sudorese",
+            "peso": 1.2
+          },
+          {
+            "s": "evitação",
+            "peso": 1.3
+          },
+          {
+            "s": "tremor",
+            "peso": 1.1
+          },
+          {
+            "s": "rubor facial",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "fobia social",
+            "ansiedade"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno de Personalidade Borderline",
+        "tipo": "psicologico",
+        "descricao": "Padrão de instabilidade nos relacionamentos interpessoais, autoimagem e afetos, com impulsividade acentuada.",
+        "tratamento": "Terapia dialética-comportamental (DBT), psicoterapia, estabilizadores de humor, ISRS para sintomas depressivos.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "labilidade emocional",
+            "peso": 1.5
+          },
+          {
+            "s": "instabilidade",
+            "peso": 1.5
+          },
+          {
+            "s": "impulsividade",
+            "peso": 1.4
+          },
+          {
+            "s": "automutilação",
+            "peso": 1.4
+          },
+          {
+            "s": "ideação suicida",
+            "peso": 1.5
+          },
+          {
+            "s": "medo de abandono",
+            "peso": 1.3
+          },
+          {
+            "s": "raiva intensa",
+            "peso": 1.3
+          },
+          {
+            "s": "despersonalização",
+            "peso": 1.2
+          },
+          {
+            "s": "vazio existencial",
+            "peso": 1.3
+          },
+          {
+            "s": "relacionamentos instáveis",
+            "peso": 1.3
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 5,
+          "sintomas_obrigatorios": [
+            "labilidade emocional",
+            "instabilidade"
+          ]
+        }
+      },
+      {
+        "doenca": "Anorexia Nervosa",
+        "tipo": "psicologico",
+        "descricao": "Transtorno alimentar caracterizado por restrição alimentar extrema, medo intenso de ganhar peso e distorção da imagem corporal.",
+        "tratamento": "Psicoterapia (terapia familiar para adolescentes), terapia nutricional, acompanhamento médico, hospitalização em casos graves, ISRS para comorbidades.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "restrição alimentar",
+            "peso": 1.6
+          },
+          {
+            "s": "perda de peso",
+            "peso": 1.6
+          },
+          {
+            "s": "medo de engordar",
+            "peso": 1.5
+          },
+          {
+            "s": "distorção da imagem corporal",
+            "peso": 1.5
+          },
+          {
+            "s": "amenorreia",
+            "peso": 1.3
+          },
+          {
+            "s": "fadiga",
+            "peso": 1.3
+          },
+          {
+            "s": "depressão",
+            "peso": 1.3
+          },
+          {
+            "s": "perfeccionismo",
+            "peso": 1.2
+          },
+          {
+            "s": "exercício excessivo",
+            "peso": 1.3
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "restrição alimentar",
+            "medo de engordar"
+          ]
+        }
+      },
+      {
+        "doenca": "Bulimia Nervosa",
+        "tipo": "psicologico",
+        "descricao": "Transtorno alimentar com episódios de compulsão alimentar seguidos de comportamentos compensatórios inadequados (vômitos, laxantes, exercícios excessivos).",
+        "tratamento": "Terapia cognitivo-comportamental, ISRS (fluoxetina), terapia nutricional, acompanhamento médico.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "compulsão alimentar",
+            "peso": 1.6
+          },
+          {
+            "s": "vômito autoinduzido",
+            "peso": 1.5
+          },
+          {
+            "s": "uso de laxantes",
+            "peso": 1.4
+          },
+          {
+            "s": "medo de engordar",
+            "peso": 1.4
+          },
+          {
+            "s": "distorção da imagem corporal",
+            "peso": 1.3
+          },
+          {
+            "s": "depressão",
+            "peso": 1.3
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.2
+          },
+          {
+            "s": "exercício excessivo",
+            "peso": 1.3
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "compulsão alimentar",
+            "vômito autoinduzido"
+          ]
+        }
+      },
+      {
+        "doenca": "Esquizofrenia",
+        "tipo": "psicologico",
+        "descricao": "Transtorno mental grave caracterizado por sintomas psicóticos (delírios, alucinações), desorganização do pensamento e comprometimento funcional.",
+        "tratamento": "Antipsicóticos (risperidona, olanzapina, clozapina), psicoterapia, reabilitação psicossocial, suporte familiar.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "alucinação",
+            "peso": 1.6
+          },
+          {
+            "s": "alucinação auditiva",
+            "peso": 1.5
+          },
+          {
+            "s": "delírio",
+            "peso": 1.5
+          },
+          {
+            "s": "delírio persecutório",
+            "peso": 1.4
+          },
+          {
+            "s": "pensamento desorganizado",
+            "peso": 1.4
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.3
+          },
+          {
+            "s": "embotamento afetivo",
+            "peso": 1.3
+          },
+          {
+            "s": "anedonia",
+            "peso": 1.2
+          },
+          {
+            "s": "avolição",
+            "peso": 1.2
+          },
+          {
+            "s": "catatonia",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "alucinação",
+            "delírio"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno de Déficit de Atenção e Hiperatividade (TDAH)",
+        "tipo": "psicologico",
+        "descricao": "Transtorno do neurodesenvolvimento caracterizado por desatenção, hiperatividade e impulsividade, com início na infância.",
+        "tratamento": "Psicoestimulantes (metilfenidato, lisdexanfetamina), terapia cognitivo-comportamental, estratégias organizacionais.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "falta de concentração",
+            "peso": 1.5
+          },
+          {
+            "s": "distração",
+            "peso": 1.4
+          },
+          {
+            "s": "hiperatividade",
+            "peso": 1.3
+          },
+          {
+            "s": "impulsividade",
+            "peso": 1.3
+          },
+          {
+            "s": "inquietação",
+            "peso": 1.3
+          },
+          {
+            "s": "esquecimento",
+            "peso": 1.2
+          },
+          {
+            "s": "desorganização",
+            "peso": 1.2
+          },
+          {
+            "s": "procrastinação",
+            "peso": 1.1
+          },
+          {
+            "s": "dificuldade em terminar tarefas",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "falta de concentração"
+          ]
+        }
+      },
+      {
+        "doenca": "Insônia Crônica",
+        "tipo": "psicologico",
+        "descricao": "Dificuldade persistente em iniciar ou manter o sono, ou despertar precoce, com prejuízo diurno significativo.",
+        "tratamento": "Terapia cognitivo-comportamental para insônia (TCC-I), higiene do sono, melatonina, agonistas de receptores de melatonina.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "insônia inicial",
+            "peso": 1.5
+          },
+          {
+            "s": "insônia de manutenção",
+            "peso": 1.4
+          },
+          {
+            "s": "despertar precoce",
+            "peso": 1.3
+          },
+          {
+            "s": "sono não reparador",
+            "peso": 1.4
+          },
+          {
+            "s": "fadiga diurna",
+            "peso": 1.3
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.2
+          },
+          {
+            "s": "falta de concentração",
+            "peso": 1.2
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "insônia inicial"
+          ]
+        }
+      },
+      {
+        "doenca": "Dependência de Álcool",
+        "tipo": "psicologico",
+        "descricao": "Transtorno do uso de álcool caracterizado por padrão compulsivo de consumo, tolerância crescente, síndrome de abstinência e prejuízo funcional.",
+        "tratamento": "Desintoxicação supervisionada, benzodiazepínicos na abstinência, naltrexona, acamprosato, dissulfiram, psicoterapia, grupos de apoio (AA).",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "uso compulsivo de substância",
+            "peso": 1.6
+          },
+          {
+            "s": "tolerância aumentada",
+            "peso": 1.5
+          },
+          {
+            "s": "síndrome de abstinência",
+            "peso": 1.5
+          },
+          {
+            "s": "tremores por abstinência",
+            "peso": 1.4
+          },
+          {
+            "s": "fissura",
+            "peso": 1.4
+          },
+          {
+            "s": "negação do problema",
+            "peso": 1.3
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.2
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.2
+          },
+          {
+            "s": "depressão",
+            "peso": 1.2
+          },
+          {
+            "s": "insônia",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "uso compulsivo de substância",
+            "tolerância aumentada"
+          ]
+        }
+      },
+      {
+        "doenca": "Dependência de Substâncias Psicoativas",
+        "tipo": "psicologico",
+        "descricao": "Transtorno do uso de substâncias (cocaína, crack, maconha, opioides, etc.) com padrão compulsivo, tolerância e abstinência.",
+        "tratamento": "Desintoxicação, reposição medicamentosa (metadona/buprenorfina para opioides), psicoterapia, internação em CAPS-AD ou comunidade terapêutica.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "fissura",
+            "peso": 1.6
+          },
+          {
+            "s": "compulsão por substância",
+            "peso": 1.5
+          },
+          {
+            "s": "abstinência",
+            "peso": 1.5
+          },
+          {
+            "s": "tolerância aumentada",
+            "peso": 1.4
+          },
+          {
+            "s": "recaída frequente",
+            "peso": 1.3
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.3
+          },
+          {
+            "s": "mentira recorrente",
+            "peso": 1.2
+          },
+          {
+            "s": "dependência psicológica",
+            "peso": 1.4
+          },
+          {
+            "s": "dependência física",
+            "peso": 1.4
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "fissura",
+            "compulsão por substância"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno do Espectro Autista (TEA)",
+        "tipo": "psicologico",
+        "descricao": "Transtorno do neurodesenvolvimento caracterizado por dificuldades na comunicação social e padrões restritos e repetitivos de comportamento e interesses.",
+        "tratamento": "Terapia ABA (análise do comportamento aplicado), fonoaudiologia, terapia ocupacional, PECS, comunicação aumentativa, psicoterapia adaptada.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "dificuldade de comunicação social",
+            "peso": 1.6
+          },
+          {
+            "s": "comportamento repetitivo",
+            "peso": 1.5
+          },
+          {
+            "s": "interesses restritos e intensos",
+            "peso": 1.4
+          },
+          {
+            "s": "rigidez de rotina",
+            "peso": 1.4
+          },
+          {
+            "s": "hipersensibilidade sensorial",
+            "peso": 1.3
+          },
+          {
+            "s": "dificuldade de contato visual",
+            "peso": 1.3
+          },
+          {
+            "s": "ecolalia",
+            "peso": 1.2
+          },
+          {
+            "s": "estereotipias motoras",
+            "peso": 1.2
+          },
+          {
+            "s": "meltdown",
+            "peso": 1.2
+          },
+          {
+            "s": "dificuldade de regulação emocional",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "dificuldade de comunicação social",
+            "comportamento repetitivo"
+          ]
+        }
+      },
+      {
+        "doenca": "Demência Vascular",
+        "tipo": "psicologico",
+        "descricao": "Perda progressiva de funções cognitivas causada por comprometimento da circulação cerebral, geralmente associada a AVCs múltiplos ou doença cerebrovascular.",
+        "tratamento": "Controle dos fatores de risco cardiovascular (HAS, DM, dislipidemia), antiagregantes, inibidores de colinesterase, estimulação cognitiva.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "perda de memória",
+            "peso": 1.5
+          },
+          {
+            "s": "confusão mental",
+            "peso": 1.4
+          },
+          {
+            "s": "desorientação temporal",
+            "peso": 1.4
+          },
+          {
+            "s": "dificuldade de planejamento",
+            "peso": 1.3
+          },
+          {
+            "s": "disfunção executiva",
+            "peso": 1.3
+          },
+          {
+            "s": "lentidão cognitiva",
+            "peso": 1.3
+          },
+          {
+            "s": "alteração de comportamento",
+            "peso": 1.2
+          },
+          {
+            "s": "marcha lenta",
+            "peso": 1.1
+          },
+          {
+            "s": "instabilidade ao andar",
+            "peso": 1.1
+          },
+          {
+            "s": "incontinência urinária",
+            "peso": 1.0
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "perda de memória",
+            "disfunção executiva"
+          ]
+        }
+      },
+      {
+        "doenca": "Hipocondria (Transtorno de Ansiedade de Doença)",
+        "tipo": "psicologico",
+        "descricao": "Preocupação excessiva e persistente de ter ou adquirir uma doença grave, apesar de exames normais e reasseguramento médico.",
+        "tratamento": "Terapia cognitivo-comportamental, ISRS, psicoeducação, redução de verificações de saúde e consultas médicas desnecessárias.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "preocupação excessiva",
+            "peso": 1.5
+          },
+          {
+            "s": "medo",
+            "peso": 1.4
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.4
+          },
+          {
+            "s": "verificação repetitiva",
+            "peso": 1.3
+          },
+          {
+            "s": "consultas médicas frequentes",
+            "peso": 1.3
+          },
+          {
+            "s": "busca excessiva de informações",
+            "peso": 1.2
+          },
+          {
+            "s": "catastrofização",
+            "peso": 1.3
+          },
+          {
+            "s": "pensamentos intrusivos",
+            "peso": 1.2
+          },
+          {
+            "s": "evitação",
+            "peso": 1.1
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "preocupação excessiva",
+            "medo"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno Dismórfico Corporal",
+        "tipo": "psicologico",
+        "descricao": "Preocupação obsessiva com um defeito percebido na aparência física que é imperceptível ou mínimo para os outros, causando sofrimento e prejuízo.",
+        "tratamento": "Terapia cognitivo-comportamental com exposição e prevenção de resposta, ISRS em doses elevadas, psicoeducação.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "distorção da imagem corporal",
+            "peso": 1.6
+          },
+          {
+            "s": "preocupação excessiva",
+            "peso": 1.5
+          },
+          {
+            "s": "verificação repetitiva",
+            "peso": 1.4
+          },
+          {
+            "s": "evitação social",
+            "peso": 1.3
+          },
+          {
+            "s": "rituais compulsivos",
+            "peso": 1.3
+          },
+          {
+            "s": "baixa autoestima",
+            "peso": 1.3
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.2
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.2
+          },
+          {
+            "s": "ideação suicida",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "distorção da imagem corporal",
+            "preocupação excessiva"
+          ]
+        }
+      },
+      {
+        "doenca": "Tricotilomania",
+        "tipo": "psicologico",
+        "descricao": "Transtorno do controle de impulsos caracterizado pela compulsão recorrente de arrancar os próprios cabelos, sobrancelhas ou pelos, causando perda capilar visível.",
+        "tratamento": "Terapia cognitivo-comportamental (inversão de hábito), terapia de aceitação e compromisso, ISRS, N-acetilcisteína.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "alopecia",
+            "peso": 1.6
+          },
+          {
+            "s": "queda de cabelo",
+            "peso": 1.5
+          },
+          {
+            "s": "compulsão",
+            "peso": 1.5
+          },
+          {
+            "s": "tensão antes do ato",
+            "peso": 1.3
+          },
+          {
+            "s": "alívio após o ato",
+            "peso": 1.3
+          },
+          {
+            "s": "vergonha",
+            "peso": 1.2
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.1
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "alopecia",
+            "compulsão"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno de Adaptação",
+        "tipo": "psicologico",
+        "descricao": "Resposta emocional ou comportamental desproporcional e desadaptativa a um estressor identificável, como luto, divórcio, demissão ou diagnóstico de doença.",
+        "tratamento": "Psicoterapia (TCC, psicoterapia de apoio, psicoterapia breve), manejo do estressor, ISRS em casos com sintomas depressivos significativos.",
+        "severidade": "leve",
+        "sintomas": [
+          {
+            "s": "ansiedade",
+            "peso": 1.4
+          },
+          {
+            "s": "depressão",
+            "peso": 1.3
+          },
+          {
+            "s": "tristeza",
+            "peso": 1.3
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.2
+          },
+          {
+            "s": "choro fácil",
+            "peso": 1.2
+          },
+          {
+            "s": "insônia",
+            "peso": 1.2
+          },
+          {
+            "s": "falta de concentração",
+            "peso": 1.1
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.1
+          },
+          {
+            "s": "desmotivação",
+            "peso": 1.1
+          },
+          {
+            "s": "preocupação excessiva",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 3,
+          "sintomas_obrigatorios": [
+            "ansiedade"
+          ]
+        }
+      },
+      {
+        "doenca": "Transtorno da Personalidade Antissocial",
+        "tipo": "psicologico",
+        "descricao": "Padrão persistente de desrespeito e violação dos direitos dos outros, com ausência de empatia e remorso. Frequentemente associado a histórico de conduta disruptiva na infância.",
+        "tratamento": "Psicoterapia de longo prazo, terapia cognitivo-comportamental, manejo de contingências, tratamento de comorbidades como abuso de substâncias.",
+        "severidade": "grave",
+        "sintomas": [
+          {
+            "s": "impulsividade",
+            "peso": 1.4
+          },
+          {
+            "s": "agressividade",
+            "peso": 1.4
+          },
+          {
+            "s": "mentira recorrente",
+            "peso": 1.3
+          },
+          {
+            "s": "desconfiança",
+            "peso": 1.2
+          },
+          {
+            "s": "comportamento de risco",
+            "peso": 1.3
+          },
+          {
+            "s": "ausência de remorso",
+            "peso": 1.4
+          },
+          {
+            "s": "irritabilidade",
+            "peso": 1.2
+          },
+          {
+            "s": "instabilidade emocional",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "mentira recorrente",
+            "ausência de remorso"
+          ]
+        }
+      },
+      {
+        "doenca": "Luto Prolongado",
+        "tipo": "psicologico",
+        "descricao": "Resposta ao luto que persiste além do esperado culturalmente e interfere gravemente no funcionamento, com saudade intensa e dificuldade de aceitação da perda.",
+        "tratamento": "Terapia do luto prolongado, terapia cognitivo-comportamental focada no luto, grupos de apoio, ISRS para sintomas depressivos associados.",
+        "severidade": "moderada",
+        "sintomas": [
+          {
+            "s": "tristeza profunda",
+            "peso": 1.5
+          },
+          {
+            "s": "anedonia",
+            "peso": 1.4
+          },
+          {
+            "s": "saudade intensa",
+            "peso": 1.5
+          },
+          {
+            "s": "dificuldade de aceitação",
+            "peso": 1.4
+          },
+          {
+            "s": "isolamento social",
+            "peso": 1.3
+          },
+          {
+            "s": "ansiedade",
+            "peso": 1.2
+          },
+          {
+            "s": "choro frequente",
+            "peso": 1.3
+          },
+          {
+            "s": "insônia",
+            "peso": 1.2
+          },
+          {
+            "s": "desesperança",
+            "peso": 1.3
+          },
+          {
+            "s": "pensamentos de morte",
+            "peso": 1.2
+          }
+        ],
+        "condicoes": {
+          "min_sintomas": 4,
+          "sintomas_obrigatorios": [
+            "tristeza profunda",
+            "saudade intensa"
+          ]
+        }
+      }
+    ]
+  }
+}
